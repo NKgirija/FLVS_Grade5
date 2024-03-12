@@ -1,0 +1,35 @@
+{
+	"config": {
+		"src": "photoSlider",
+		"intMedia": "",
+		"interactiveTitle": "Slider",
+		"directions": "This is the description of my slider.",
+		"imageWidth": 600,
+		"imageHeight": 400,
+		"css": [
+			"interactives/photoslider_07_02_03/styles.css"
+		],
+		"resultsPage": false,
+		"progressBar": false
+	},
+	"body": [
+		[
+			{
+				"type": "config",
+				"directions": "This is the description of my slider."
+			},
+			{
+				"type": "image",
+				"image1": "interactives/photoslider_07_02_03/intmedia/p2_img1.jpg",
+				"image2": "interactives/photoslider_07_02_03/intmedia/p2_img2.jpg",
+				"alt1": "an image of different colors of plastic bottle caps",
+				"alt2": "an artwork of a map of the world made out of colorful plastic bottle caps",
+				"caption1": "",
+				"caption2": "",
+				"title": "Slide",
+				"startPoint": "right",
+				"textversion": "<p>The first image shows an image of different colors of plastic bottle caps.</p> <p>The second image shows an artwork of a map of the world made out of colorful plastic bottle caps.</p>"
+			}
+		]
+	]
+}
