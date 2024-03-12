@@ -1,0 +1,52 @@
+{
+	"Config": {
+		"InteractiveTitle": "MindMap",
+		"ColourScheme": "theme1",
+		"Instructions": "Select each bubble to learn more about solutions you can use to overcome challenges while creating mixed media artworks. ",
+		"InstructionsVO": "",
+		"Caption": "Assemblage Solutions",
+		"CaptionVO": "",
+		"Tutorial": [],
+		"copyright": [
+			"Mixed media painting of trees by river by AnnBaldwin © 2011 iStock","Gold and Blue Dots by seraficus © 2011 iStock","Assorted pieces of leather by andreonegin © 2017 iStock","Colorful Carving Paper Shapes by kotoffei © 2017 iStock"
+		]
+	},
+	"Bubbles": [
+		{
+			"type": "img",
+			"titleImg":"intmedia/p3_img1.png",
+			"titleVO":"",
+			"img":"intmedia/p3_img1.jpg",
+			"text": "If you think you’ve made a mistake while creating your artwork, just add another layer of paint over top. Doing this will add more texture to your artwork.",
+			"alt":"",
+			"textVO": ""
+		},
+		{
+			"type": "img",
+			"titleImg":"intmedia/p3_img2.png",
+			"titleVO":"",
+			"img":"intmedia/p3_img2.jpg",
+			"text":"Drawing over top of your artwork can change how you see a mistake. Using a dark pen to add a border can add interest and create texture. ",
+			"alt":"",
+			"textVO": ""
+		},
+		{
+			"type": "img",
+			"titleImg":"intmedia/p3_img3.png",
+			"titleVO":"",
+			"img":"intmedia/p3_img3.jpg",
+			"text":"Try gluing textured materials, like fabric, or different types of paper onto your artwork to cover up a mistake.",
+			"alt":"",
+			"textVO": ""
+		},
+		{
+			"type": "img",
+			"titleImg":"intmedia/p3_img4.png",
+			"titleVO":"","img":"intmedia/p3_img4.jpg",
+			"text":"Try cutting a hole right out of your artwork and filling it with something else. You can even reuse the piece that you cut out somewhere else in your artwork.  ",
+			"alt":"",
+			"textVO": ""
+		}
+	],
+	"TextVersion": "<h5>Assemblage Solutions</h5><p>If you think you’ve made a mistake while creating your artwork, just add another layer of paint over top. Doing this will add more texture to your artwork.</p><p><strong>Image description:</strong> </p><p> Drawing over top of your artwork can change how you see a mistake. Using a dark pen to add a border can add interest and create texture. </p><p><strong>Image description:</strong> </p><p> Try gluing textured materials, like fabric, or different types of paper onto your artwork to cover up a mistake.</p><p><strong>Image description:</strong> </p><p> Try cutting a hole right out of your artwork and filling it with something else. You can even reuse the piece that you cut out somewhere else in your artwork. </p><p><strong>Image description:</strong> </p>"
+}
