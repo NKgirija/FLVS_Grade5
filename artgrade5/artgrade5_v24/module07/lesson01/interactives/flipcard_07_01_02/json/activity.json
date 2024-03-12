@@ -1,0 +1,172 @@
+  {
+  "config": {
+    "src": "quizmo",
+    "progressBar": false,
+    "theme": "standard",
+    "resultsPage": false,
+    "css": [
+      "interactives/flipcard_07_01_02/styles.css"
+    ],
+    "copyright": [    
+      "iStock"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "directions": "Select each card to review textures."
+      },
+      {
+        "type": "flipCard",
+        "cards": [
+          {
+            "height": "300px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Smooth</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_01",
+                "width": "100%",
+                "alt": "a red apple",
+                "src": "interactives/flipcard_07_01_02/intmedia/p2_img1.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "This apple has a smooth surface. An object with a smooth texture will not have a surface with roughness, bumps, or ridges."
+              }
+            ]
+          },
+          {
+            "height": "300px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong> Rough</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_02",
+                "width": "100%",
+                "alt": "female garden statue",
+                "src": "interactives/flipcard_07_01_02/intmedia/p2_img2.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "This statue has a rough texture. An object with a rough texture will be bumpy or uneven."
+              }
+            ]
+          },
+          {
+            "height": "300px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong> Hard</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_03",
+                "width": "100%",
+                "alt": "an ivory elephant figurine",
+                "src": "interactives/flipcard_07_01_02/intmedia/p2_img3.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "This sculpture of an elephant is made of ivory, a very hard material. An object that has a hard texture is strong and not easily broken."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "flipCard",
+        "cards": [
+          {
+            "height": "300px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Soft</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_04",
+                "width": "100%",
+                "alt": "a folded quilt",
+                "src": "interactives/flipcard_07_01_02/intmedia/p2_img4.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "This quilt has a soft texture. If an object has a soft texture, it will be cozy to touch."
+              }
+            ]
+          },
+          {
+            "height": "300px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Woven</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_05",
+                "width": "100%",
+                "alt": "a colorful decorative woven piece in the shape of a circle",
+                "src": "interactives/flipcard_07_01_02/intmedia/p2_img5.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "This object has a woven texture. If an object has a woven texture, it has been created with creative woven patterns."
+              }
+            ]
+          },
+          {
+            "height": "300px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Bumpy</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_06",
+                "width": "100%",
+                "alt": "a mosaic lizard made of broken ceramic tiles",
+                "src": "interactives/flipcard_07_01_02/intmedia/p2_img6.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "This mosaic lizard has an uneven surface with a bumpy texture. The many tiny tile pieces make a rough and bumpy texture. "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}
