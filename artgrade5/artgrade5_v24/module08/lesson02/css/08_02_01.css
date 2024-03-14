@@ -1,0 +1,30 @@
+.kahlo.carousel .carousel-inner {
+    margin-bottom: 90px;
+    margin-top: 33px;
+}
+.kahlo.carousel .carousel-control,
+.kahlo.carousel .carousel-indicators {   
+    bottom: 10%;
+}
+.kahlo.carousel{
+    padding: 25px 35px;
+}
+.kahlo .carousel-inner>.item {
+    margin: 40px 40px;
+    padding: 0px;
+}
+.kahlo.carousel .carousel-indicators{
+    right:60px;
+}
+.kahlo a.left.carousel-control {
+    margin-left: 25px;
+}
+.kahlo a.right.carousel-control{
+    margin-left: 40px;
+}
+.kahlo.carousel .carousel-control.carousel-control-audio {
+    left: 165px !important;
+}
+.kahlo.carousel .caption {
+    margin-top: -5px;   
+}
