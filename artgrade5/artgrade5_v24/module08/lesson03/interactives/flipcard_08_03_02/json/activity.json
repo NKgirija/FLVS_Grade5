@@ -1,0 +1,216 @@
+{
+  "config": {
+    "src": "quizmo",
+    "progressBar": false,
+    "theme": "standard",
+    "resultsPage": false,
+    "css": [
+      "interactives/flipcard_08_03_02/styles.css"
+    ],
+    "copyright": [
+         
+      "iStock"
+     
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "directions": "Select each card to explore different types of photography."
+      },
+      {
+        "type": "flipCard",
+        "cards": [
+          {
+            "height": "455px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Travel Photography</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_01",
+                "width": "100%",
+                "alt": "a photo of a hot air balloon over mountains and water",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img1.png"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Travel photography captures images from different places around the world. These photos showcase the beauty and culture of different places. "
+               },
+              {
+                "type": "image",
+                "id": "flipimg_02",
+                "width": "90%",
+                "alt": "a photo of a woman in a kayak in beautiful water",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img2.png"
+              }
+            ]
+          },
+          {
+            "height": "455px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Wildlife Photography</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_03",
+                "width": "100%",
+                "alt": "a photo of a mother and baby elephant",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img3.png"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Wildlife photography takes pictures of animals in their natural habitats."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_04",
+                "width": "90%",
+                "alt": "a photo of a sea turtle swimming under water",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img4.png"
+              }
+            ]
+          },
+          {
+            "height": "455px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Sports Photography</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_05",
+                "width": "100%",
+                "alt": "a photo of football players on the field",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img5.png"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Sports photography captures exciting moments in athletic events."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_06",
+                "width": "90%",
+                "alt": "a photo of a woman jumping over a hurdle on a track",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img6.png"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "flipCard",
+        "cards": [
+          {
+            "height": "455px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Wedding Photography</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_07",
+                "width": "100%",
+                "alt": "a photo of a bride and groom surrounded by clapping people",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img7.png"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Wedding photography snapshots special moments during weddings and documents these important events. "
+              },
+              {
+                "type": "image",
+                "id": "flipimg_08",
+                "width": "100%",
+                "alt": "a photo of a bride and groom getting married on a beach",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img10.png"
+              }
+            ]
+          },
+          {
+            "height": "455px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Family Photography</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_09",
+                "width": "100%",
+                "alt": "a portrait of a smiling family",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img8.png"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Family photography captures moments and portraits of families and individuals."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_10",
+                "width": "100%",
+                "alt": "a photo of a newborn looking at the camera",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img11.png"
+              }
+            ]
+          },
+          {
+            "height": "455px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Pop Culture Photography</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_11",
+                "width": "100%",
+                "alt": "a photo of a woman on a red carpet waving at a group of photographers",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img9.png"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Pop culture photography focuses on celebrities, fashion, and trends."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_12",
+                "width": "100%",
+                "alt": "a portrait of a jazz musician",
+                "src": "interactives/flipcard_08_03_02/intmedia/p2_img12.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}

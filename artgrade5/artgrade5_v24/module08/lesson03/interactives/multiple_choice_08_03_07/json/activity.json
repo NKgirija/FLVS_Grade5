@@ -1,0 +1,76 @@
+{
+  "config": {
+    "src": "quizmo",
+    "progressBar": false,
+    "resultsPage": true,
+    "interactiveTitle": "Self-Check Review",
+    "css": [
+      "interactives/multiple_choice_08_03_07/styles.css"
+    ],
+    "copyright": [      
+      "iStock"
+      
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "layout": "layout1",
+        "directions": "Choose the correct answer.",
+        "$$hashKey": "object:248"
+      },
+      {
+        "type": "config",
+        "layout": "layout1",
+        "$$hashKey": "object:366"
+      },
+      {
+        "type": "mc",
+        "options": [
+          "Family photographer",
+          "Travel photographer",
+          "Neighborhood journalist"
+        ],
+        "quiz": "<p>Dorothea Lange took photos of people in the community to share information with the world. What type of photographer was she?</p> <img src='interactives/multiple_choice_08_03_07/intmedia/p7_img1.jpg' class='textimg ' alt='art supplies in containers'><p class='texttext'><strong>Image of:</strong> art supplies in containers</p>",
+        "answer": "Photojournalist",
+        "incorrect": "Almost! Give it another try. ",
+        "correct": "Way to go! You know that Dorothea Lange was a photojournalist who took pictures of the people in her community.",
+        "failed": "So close! Remember, Dorothea Lange was a photojournalist. She took photos of people in her community to share with the world.",
+        "$$hashKey": "object:307"
+      }
+    ],
+    [
+      {
+        "type": "mc",
+        "options": [
+          "<img src='interactives/multiple_choice_08_03_07/intmedia/p7_img2.jpg' class='textimg ' alt='a little girl playing with a ball'><p class='texttext'><strong>Image of:</strong> a little girl playing with a ball</p>",
+          "<img src='interactives/multiple_choice_08_03_07/intmedia/p7_img3.jpg' class='textimg ' alt='a hand holding a stopwatch'><p class='texttext'><strong>Image of:</strong> a hand holding a stopwatch</p>",
+          "<img src='interactives/multiple_choice_08_03_07/intmedia/p7_img5.jpg' class='textimg ' alt='a baseball player about to hit the ball with his bat'><p class='texttext'><strong>Image of:</strong> a baseball player about to hit the ball with his bat</p>"
+        ],
+        "quiz": "<p>Select the image that a sports photographer might take.</p>",
+        "answer": "<img src='interactives/multiple_choice_08_03_07/intmedia/p7_img4.jpg' class='textimg ' alt=a mother and son wearing matching jerseys eating popcorn and watching sports on TV'><p class='texttext'><strong>Image of:</strong> a mother and son wearing matching jerseys eating popcorn and watching sports on TV</p>",
+        "incorrect": "Almost! Give it another try. ",
+        "correct": "Great work! You know a sports photographer takes pictures of athletes competing.",
+        "failed": "You're almost there. Remember, a sports photographer takes photos of athletes competing.",
+        "$$hashKey": "object:307"
+      }
+    ],
+    [
+      {
+        "type": "mc",
+        "options": [
+          "Experiment with angles",
+          "Use a digital camera",
+          "Pose the subjects"
+        ],
+        "quiz": "<p>How can you prevent a photo from turning out blurry?</p> <img src='interactives/multiple_choice_08_03_07/intmedia/p7_img6.jpg' class='textimg' alt=''><p class='texttext'><strong>Image of:</strong> </p>",
+        "answer": "Hold the camera still   ",
+        "incorrect": "Almost! Give it another try. ",
+        "correct": "Way to go! You know that holding the camera still will prevent the photos from being blurry.",
+        "failed": "You're almost there. Remember, hold the camera still to prevent photos from being blurry.",
+        "$$hashKey": "object:307"
+      }
+    ]
+  ]
+}

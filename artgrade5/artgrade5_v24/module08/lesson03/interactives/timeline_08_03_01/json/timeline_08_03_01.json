@@ -1,0 +1,65 @@
+{
+	"config": {
+		"src": "timeline",
+		"interactiveTitle": "",
+		"intMedia": "",
+		"directions": "Move the slider to see some of Dorothea Lange’s photographs.",
+		"css": [
+			"interactives/timeline_08_03_01/css/styles.css"
+		],
+		"copyright": [
+			"Photo of a Farm Boy © Granger, NYC / The Granger Collection / Image Quest 2022 ",
+			"Photo of USA, Children of Seasonal Workers © akg Images / Image Quest 2022 ",
+			"Photo of a Sharecropper © Granger, NYC / The Granger Collection / Image Quest 2022 ",
+			"Photo of a Young Migrant Woman © Granger, NYC / The Granger Collection / Image Quest 2022 ",
+			"Photo of a Young Migrant Child © Granger, NYC / The Granger Collection / Image Quest 2022 "
+		],
+		"entries": [
+			{
+				"title": "Photo of a Farm Boy",
+				"date": "",
+				"content": "In the early 1900s, it wasn’t uncommon for children to work full-time.",
+				"image": "interactives/timeline_08_03_01/intmedia/p1_img1.jpg",
+				"alt": "a photograph of a young farm boy",
+				"copyright": "",
+				"summaryLength": "300"
+			},
+			{
+				"title": "Children of Seasonal Workers",
+				"date": "",
+				"content": "Migrant families had different jobs, depending on the season or time of year.",
+				"image": "interactives/timeline_08_03_01/intmedia/p1_img2.jpg",
+				"alt": "a photograph of two children with their face in their palms",
+				"copyright": "",
+				"summaryLength": "300"
+			},
+			{
+				"title": "Sharecropper",
+				"date": "",
+				"content": "A sharecropper was a person who worked on a farm owned by someone else. They got a part of the crops or plants they grew as payment instead of money.",
+				"image": "interactives/timeline_08_03_01/intmedia/p1_img3.jpg",
+				"alt": "a photograph of a sharecropper",
+				"copyright": "",
+				"summaryLength": "300"
+			},
+			{
+				"title": "Young Migrant Woman",
+				"date": "",
+				"content": "Dorothea Lange’s most well-known photos are of people during the Great Depression and the Dust Bowl. ",
+				"image": "interactives/timeline_08_03_01/intmedia/p1_img4.jpg",
+				"alt": "a photograph of a young migrant woman standing up",
+				"copyright": "",
+				"summaryLength": "300"
+			},
+			{
+				"title": "A Young Migrant Child",
+				"date": "",
+				"content": "Dorothea Lange's photos showed people's struggles and the strength to keep trying even when things are hard.",
+				"image": "interactives/timeline_08_03_01/intmedia/p1_img5.jpg",
+				"alt": "a photograph of a small migrant child",
+				"copyright": "",
+				"summaryLength": "300"
+			}
+		]
+	}
+}

@@ -1,0 +1,192 @@
+html body #imageidsline img,
+html body #imageidwline img,
+html body #imageiddline img {
+
+  height: auto;
+}
+
+html body #imageids img,
+html body #imageidw img,
+html body #imageidd img {
+
+  max-height: 300px;
+}
+
+.il_wb {
+  text-align: center;
+}
+
+.ng_il audio {
+  margin: 10px auto 0 !important;
+}
+
+.para-text {
+  font-size: 26px;
+}
+
+/* Fev Code */
+
+.ng_il .viewport {
+  max-width: 850px;
+}
+
+#flipimg_01,
+#flipimg_02,
+#flipimg_03,
+#flipimg_04,
+#flipimg_05,
+#flipimg_06,
+#flipimg_07,
+#flipimg_09,
+#flipimg_10,
+#flipimg_11,
+#flipimg_12 {
+  width: 88%;
+  margin: 0 auto;
+}
+
+#flipimg_08,
+#flipimg_12 {
+  width: 88%;
+  margin: 0 auto;
+  margin-top: 35px;
+}
+
+#flipimg_01,
+#flipimg_03,
+#flipimg_05,
+#flipimg_07{
+  margin-top: 60px;
+}
+
+
+#flipimg_07,
+#flipimg_11,
+#flipimg_09  {
+  margin-top: 55px;
+}
+
+
+
+html .blue.ng_il p.il_question, html .blue.ng_il .il_question.il_mc_quiz, html body .blue.ng_il #click2RevealApp p.il_question, html body .blue.ng_il #click2RevealApp .il_question.il_mc_quiz {
+  background: #ffffff;
+  padding: 10px;
+  font-size: 21px;
+}
+
+/* #flipimg_01 #flipimg_05 #flipimg_03 #flipimg_07 {
+  margin-top: 70px;
+
+} */
+ 
+#flipimg_02,
+#flipimg_08 {
+  margin-top: 0px;
+
+}
+
+/* #flipimg_09 {
+  margin-top: 75px;
+
+} */
+
+#flipimg_12 {
+  margin-top: 90px;
+
+}
+
+#flipimg_10 {
+  margin-top: 60px;
+}
+
+#flipimg_04,
+#flipimg_06 {
+  margin-top: 120px;
+}
+
+ 
+
+/* #flipimg_01,
+#flipimg_03,
+#flipimg_05 {
+  margin-top: 50px;
+}
+
+#flipimg_02 {
+  margin-top: 73px;
+}
+
+#flipimg_04 {
+  margin-top: 10px;
+}
+
+#flipimg_06 {
+  margin-top: 10px;
+}
+
+#flipimg_07 {
+  margin-top: 94px;
+}
+
+#flipimg_09 {
+  margin-top: 63px;
+}
+
+#flipimg_08 {
+  margin-top: 94px;
+}
+
+#flipimg_11 {
+  margin-top: 32px;
+}
+
+#flipimg_12 {
+  margin-top: 3px;
+} */
+
+.fev_center {
+  margin-top: 65%;
+}
+
+.il_textversion_question .fev_center {
+  margin-top: 0px;
+}
+
+.flipCardHolder .flip-container ol {
+  text-align: left !important;
+}
+
+ul li {
+  text-align: left;
+}
+
+.ng_il .textversion {
+  display: none;
+}
+
+.flipCardHolder {
+  flex-direction: row;
+}
+
+
+@media screen and (max-width: 920px) {
+  .flipCardHolder .flip-container {
+    width: 205px !important;
+  }
+
+  .ng_il p.il_question {
+    padding: 0px !important;
+  }
+
+  .mainSlide {
+    padding: 0px;
+  }
+}
+
+html .yellow.ng_il p.il_question,
+html .yellow.ng_il .il_question.il_mc_quiz,
+html body .yellow.ng_il #click2RevealApp p.il_question,
+html body .yellow.ng_il #click2RevealApp .il_question.il_mc_quiz {
+  background: #ffffff;
+  padding: 0px;
+}

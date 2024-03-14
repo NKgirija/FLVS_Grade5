@@ -1,0 +1,9 @@
+.ng_il .viewport {
+    max-height: unset !important;
+}
+
+.ng_il .il_header {
+    background-color: #0d526f;
+    height: 86px;
+}
+

@@ -1,0 +1,73 @@
+{
+	"config": {
+		"src": "timeline",
+		"interactiveTitle": "",
+		"intMedia": "",
+		"directions": "Move the slider to see examples of how photography styles have changed over time. ",
+		"css": [
+			"interactives/timeline_08_03_03/css/styles.css"
+		  ],
+		"copyright": [
+			"iStock",
+			"Photo of Migrant Woman with an Umbrella © The Granger Collection / Image Quest 2022 "
+		 
+		],
+		"entries": [
+			{
+				"title": "Black and White Portraits",
+				"date": "",
+				"content": "The goal of the first portrait photography was to create fine art. The people in the portraits were carefully posed and often appeared very serious.",
+				"image": "interactives/timeline_08_03_03/intmedia/p2_img1.jpg",
+				"alt": "a black and white photograph of a family looking at the camera",
+				"copyright": "",
+				"summaryLength": "300"
+			},
+			{
+				"title": "Documentary Photography",
+				"date": "",
+				"content": "Photographers, like Dorothea Lange, used documentary photography to show the lives and problems of people in their communities.",
+				"image": "interactives/timeline_08_03_03/intmedia/p2_img2.jpg",
+				"alt": "a photograph of a migrant woman with an umbrella",
+				"copyright": "",
+				"summaryLength": "300"
+			},
+			{
+				"title": "Color Photography",
+				"date": "",
+				"content": "In 1935, color was introduced with a special film by Kodak. From then on, photos became more vibrant and included colorful details.",
+				"image": "interactives/timeline_08_03_03/intmedia/p2_img3.jpg",
+				"alt": "an old-fashioned color photo of a man and woman smiling at the camera",
+				"copyright": "",
+				"summaryLength": "300"
+			},
+			{
+				"title": "Candid Photography",
+				"date": "",
+				"content": "As cameras and film became more available, people began taking photos of unposed moments in real life. These are known as candid photos. Being candid means to be honest or genuine. ",
+				"image": "interactives/timeline_08_03_03/intmedia/p2_img4.jpg",
+				"alt": "a photo of a mother and son smiling at each other as they leave the basketball court",
+				"copyright": "",
+				"summaryLength": "300"
+			},
+			{
+				"title": "Snapshot Photography",
+				"date": "",
+				"content": "Now that smartphones have made cameras available to most people, people can take photos of their lives at almost any time and place.",
+				"image": "interactives/timeline_08_03_03/intmedia/p2_img5.jpg",
+				"alt": "a photo of two happy girls blowing bubbles",
+				"copyright": "",
+				"summaryLength": "300"
+			},
+			{
+				"title": "Selfies",
+				"date": "",
+				"content": "Smartphones also led to the invention of selfies. Now people can take photographs of themselves anywhere and everywhere! It’s like having the power of a self-portrait in your pocket. ",
+				"image": "interactives/timeline_08_03_03/intmedia/p2_img6.jpg",
+				"alt": "a photo of a family gathered together taking a selfie on a smartphone",
+				"copyright": "",
+				"summaryLength": "300"
+			}
+			
+		]
+	}
+}
