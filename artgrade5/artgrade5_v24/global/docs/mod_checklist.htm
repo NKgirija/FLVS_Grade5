@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Checklist</title>
+    <meta charset="utf-8"/>
+    <script>
+        var pg_csslibs = []; // CSS Libs for this Page
+        var pg_jslibs = []; // JS Libs for this Page
+        var isexternal = true; // Loads External Assets
+
+        function getQueryVariable() {
+            var query = window.location.search.substring(1);
+            console.log("query " + query)
+
+            var myVar = query;
+            var myMod = parseInt(myVar) + 1;
+
+            document.write('  <h1><span class="lang" data-term="module_name:uc">Module</span> ' + myVar + ' Checklist</h1>\n' +
+                '    <p>The <span class="lang" data-term="module_name:uc">Module</span> ' + myVar + ' Checklist will help you keep track of your work. You may print the checklist to help you stay organized. Put a check mark next to each <span class="lang" data-term="lesson_name">lesson</span> as you complete it. You can record your score on each <span class="lang" data-term="assignment_name">assignment</span> in the last column.</p><div class="checklist" data-lessonNum="true" id="modCheck" data-info="|points|" data-titles="Check When Complete|Possible Points|Points Earned" data-module="' + myMod + '"> <a href="javascript:print();" target="_blank" class="list-group-item icon-link icon-link-pdf icon-link-worksheet">Module One Checklist</a></div>');
+
+            console.log("we got to here");
+
+
+        }
+
+
+    </script>
+    <script src="../js/settings.js" id="settingJS"></script>
+</head>
+<body>
+<div id="externalContent" onload="">
+    <!-- CONTENT GOES HERE -->
+
+
+    <script>getQueryVariable()</script>
+
+
+    <!--updated-->
+
+    <hr/>
+    <a href="javascript:print();" class="print">Print</a>
+    <a href="javascript:window.close();" class="page-close">Close</a>
+    <!-- END CONTENT -->
+</div>
+
+</body>
+
+</html>

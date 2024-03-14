@@ -1,0 +1,126 @@
+html #wrapper {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5cc2e8+0,f6e4d9+33 */
+  background: #5cc2e8;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #5cc2e8 0%, #f6e4d9 33%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #5cc2e8 0%, #f6e4d9 33%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #5cc2e8 0%, #f6e4d9 33%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#5cc2e8", endColorstr="#f6e4d9",GradientType=0 );
+  /* IE6-9 */
+}
+html #group1 {
+  background: url(../images/home/animate/bghome.png) center bottom no-repeat;
+  -webkit-background-size: 100% auto;
+  background-size: 100% auto;
+}
+html .mainLogo {
+  margin-right: -235px;
+}
+@media screen and (max-width: 1024px) {
+  html .mainLogo {
+    margin-right: -175px;
+  }
+}
+html .gettingstarted {
+  margin-top: -52px;
+  padding: 30px 0 10px;
+  line-height: initial;
+}
+html .parallax__layer.balloonParent {
+  margin-top: auto;
+}
+html .parallax__layer.balloonParent .balloonKidblue {
+  margin-top: 24%;
+  position: absolute;
+  bottom: -1px;
+  right: 0;
+  text-align: right;
+}
+@media screen and (max-width: 1200px) {
+  html .parallax__layer.balloonParent .balloonKidblue img {
+    width: 70%;
+  }
+}
+@media screen and (max-width: 990px) {
+  html .parallax__layer.balloonParent .balloonKidblue img {
+    width: 50%;
+  }
+}
+html .cloudParent .clouds {
+  left: auto;
+  margin: 0px;
+  top: auto;
+  bottom: -1px;
+}
+@media screen and (max-width: 1200px) {
+  html .cloudParent .clouds img {
+    width: 70%;
+  }
+}
+@media screen and (max-width: 990px) {
+  html .cloudParent .clouds img {
+    width: 50%;
+  }
+}
+html #nav_menu .nav_menu_modules li a.mod1:before {
+  background-image: url("../images/icons/iconmod1.png");
+}
+html #nav_menu .nav_menu_modules li a.mod2:before {
+  background-image: url("../images/icons/iconmod2.png");
+}
+html #nav_menu .nav_menu_modules li a.mod3:before {
+  background-image: url("../images/icons/iconmod3.png");
+}
+html #nav_menu .nav_menu_modules li a.mod4:before {
+  background-image: url("../images/icons/iconmod4.png");
+}
+html #nav_menu .nav_menu_modules li a.mod5:before {
+  background-image: url("../images/icons/iconmod5.png");
+}
+html #nav_menu .nav_menu_modules li a.mod6:before {
+  background-image: url("../images/icons/iconmod6.png");
+}
+html #nav_menu .nav_menu_modules li a.mod7:before {
+  background-image: url("../images/icons/iconmod7.png");
+}
+html #nav_menu .nav_menu_modules li a.mod8:before {
+  background-image: url("../images/icons/iconmod8.png");
+}
+html #nav_menu .nav_menu_modules li a.mod9:before {
+  background-image: url("../images/icons/iconmod9.png");
+}
+html #nav_menu .nav_menu_modules li a.mod10:before {
+  background-image: url("../images/icons/iconmod10.png");
+}
+html #nav_menu .nav_menu_modules li a.mod11:before {
+  background-image: url("../images/icons/iconmod11.png");
+}
+html #nav_menu .nav_menu_modules li a.mod12:before {
+  background-image: url("../images/icons/iconmod12.png");
+}
+html #nav_menu .nav_menu_modules li a.mod13:before {
+  background-image: url("../images/icons/iconmod13.png");
+}
+html #nav_menu .nav_menu_modules li a.mod14:before {
+  background-image: url("../images/icons/iconmod14.png");
+}
+html #nav_menu .nav_menu_modules li a.mod15:before {
+  background-image: url("../images/icons/iconmod15.png");
+}
+html #nav_menu .nav_menu_modules li a.mod16:before {
+  background-image: url("../images/icons/iconmod16.png");
+}
+html #nav_menu .nav_menu_modules li a.mod17:before {
+  background-image: url("../images/icons/iconmod17.png");
+}
+html #nav_menu .nav_menu_modules li a.mod18:before {
+  background-image: url("../images/icons/iconmod18.png");
+}
+html #nav_menu .nav_menu_modules li a.mod19:before {
+  background-image: url("../images/icons/iconmod19.png");
+}
+
+/*# sourceMappingURL=home.css.map */

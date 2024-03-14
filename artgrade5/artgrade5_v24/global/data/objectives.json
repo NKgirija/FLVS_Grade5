@@ -1,0 +1,985 @@
+{
+  "objectives": [
+    {
+      "mID": "1",
+      "lessons": [
+        {
+          "lessID": "01.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify artwork in a community",
+            "identify how artists impact a community",
+            "identify the importance of art in a community",
+            "tell about some contributions artists make to the community",
+            "name a community or global concern",
+            "create art to communicate an awareness of events in a community",
+            "create artwork that shares a message",
+            "make connections between art and other content areas",
+            "investigate how other content areas influence art",
+            "identify the skills needed for an art-related career",
+            "tell about the knowledge and skills needed for an art-related career",
+            "make connections to professional artists",
+            "make connections to professional designers",
+            "identify careers in art",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates an artistic vision"
+          ]
+        },
+        {
+          "lessID": "01.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify possible meanings of an artwork through observation",
+            "identify possible meanings of an artwork using experience",
+            "identify possible meanings of an artwork using prior knowledge",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "analyze exemplary works of art using prior knowledge and keen observation skills",
+            "to reflect upon, interpret, and gain insight ",
+            "identify artwork in a community",
+            "identify how artists impact a community",
+            "identify the importance of art in a community",
+            "tell about some contributions artists make to the community",
+            "work with others to finish a task in art",
+            "identify ways people can collaborate on art projects",
+            "identify artworks that are important to a specific group or culture",
+            "identify the purpose of art in a public setting",
+            "explain how art in public settings can be significant to the community",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "identify artwork from different time periods or places",
+            "compare artworks created in different time periods or places",
+            "contrast artworks created in different time periods or places",
+            "use art vocabulary to discuss artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+          ]
+        },
+        {
+          "lessID": "01.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "apply the elements of art to make artworks successful",
+            "find inspiration to complete artwork",
+            "identify what makes successful artworks",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "identify artwork from different time periods",
+            "compare artworks created in different time periods",
+            "contrast artworks created in different time periods",
+            "identify the importance of an artist's creativity ",
+            "identify the importance of an artist's technical ability ",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or processes to create a variety of artworks",
+            "use art vocabulary to discuss artwork",
+            "follow the steps used to create a work of art",
+            "use art tools correctly",
+            "develop the qualities of a good craftsman through practice"
+          ]
+        },
+        {
+          "lessID": "01.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if they meet artistic goals",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "create artwork that represents own ideas",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "apply the elements of art to make artwork successful",
+            "use the elements of art to show unity in personal artwork",
+            "draw inspiration from life and thoughts to create personal artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or processes to create a variety of artworks",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates the artistic vision",
+            "use artistic choices to plan artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different techniques to create two-dimensional artwork",
+            "use different techniques to create three-dimensional artwork",
+            "develop the qualities of a good craftsman through practice",
+            "identify art tools",
+            "identify how to use art tools safely"
+          ]
+        },
+        {
+          "lessID": "01.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if it met artistic goals",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "create artwork that represent own ideas",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "apply the elements of art to make artworks successful",
+            "use the elements of art to show unity in personal artwork",
+            "draw inspiration from life and thoughts to create personal artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or processes to create a variety of artworks",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision",
+            "use artistic choices to plan artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different techniques to create two-dimensional artwork",
+            "use different techniques to create three-dimensional artwork",
+            "develop the qualities of good craftsmanship through practice",
+            "identify art tools",
+            "identify how to use art tools safely"
+          ]
+        }
+      ]
+    },
+    {
+      "mID": "2",
+      "lessons": [
+        {
+          "lessID": "02.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "make connections between art and other content areas",
+            "investigate how other content areas influence art",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+          ]
+        },
+        {
+          "lessID": "02.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify possible meanings of an artwork through observation",
+            "identify possible meanings of an artwork using experience",
+            "identify possible meanings of an artwork using prior knowledge",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "analyze exemplary works of art using prior knowledge and keen observation skills to reflect upon, interpret, and gain insight ",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "identify the elements of art in an artwork",
+            "identify the principles of design in an artwork",
+            "identify artworks that are important to a specific group or culture",
+            "identify artwork from different time periods or places",
+            "compare artworks created in different time periods or places",
+            "contrast artworks created in different time periods or places",
+            "use art vocabulary to discuss artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork"
+          ]
+        },
+        {
+          "lessID": "02.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the skills needed for an art-related career",
+            "tell about the knowledge and skills needed for an art-related career",
+            "make connections to professional artists",
+            "make connections to professional designers ",
+            "identify careers in art",
+            "apply the elements of art to make artworks successful",
+            "find inspiration to complete artwork",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "identify artwork from different time periods",
+            "compare artworks created in different time periods",
+            "contrast artworks created in different time periods",
+            "identify the importance of an artist's creativity ",
+            "identify the importance of an artist's technical ability ",
+            "use art vocabulary to discuss artwork",
+            "follow the steps used to create a work of art",
+            "use art tools correctly",
+            "develop the qualities of good craftsmanship through practice"
+          ]
+        },
+        {
+          "lessID": "02.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "assess a personal work of art, focusing on completeness and objective",
+            "identify techniques used by others to help improve own art",
+            "compare techniques used by peers to improve own work",
+            "compare techniques used by artists to improve own work",
+            "define constructive criticism",
+            "understand that constructive criticism can be used to improve artwork",
+            "use constructive criticism to improve artwork",
+            "identify helpful and unhelpful critiques",
+            "critique own artwork and the artwork of others",
+            "identify the use of structural elements of art",
+            "identify organizational principles of design",
+            "identify ways people can collaborate on art projects",
+            "give examples of artwork that was done through collaboration",
+            "collaborate to complete a task in art",
+            "recognize that different time periods and cultures use different art techniques, concepts, and media",
+            "incorporate ideas using examples of art from other cultures and time periods",
+            "identify accurate art vocabulary",
+            "choose accurate art vocabulary to describe works of art",
+            "choose accurate art vocabulary to describe art processes",
+            "engage in discussions",
+            "use appropriate voice and tone when speaking",
+            "engage in one's own learning for social and instructional purposes",
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if it met artistic goals",
+            "identify what makes successful artworks",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "identify the importance of an artist’s creativity ",
+            "identify the importance of an artist’s technical ability"
+          ]
+        },
+        {
+          "lessID": "02.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if it met artistic goals",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "create artwork that represents ideas",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "apply the elements of art to make artwork successful",
+            "use the elements of art to show unity in personal artwork",
+            "draw inspiration from life and thoughts to create personal artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or processes to create a variety of artworks ",
+            "create artworks inspired by different cultures",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates the artistic vision",
+            "use artistic choices to plan artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different techniques to create two-dimensional artwork",
+            "use different techniques to create three-dimensional artwork",
+            "develop the qualities of good craftsmanship through practice",
+            "identify art tools",
+            "identify how to use art tools safely"
+          ]
+        }
+      ]
+    },
+    {
+      "mID": "3",
+      "lessons": [
+        {
+          "lessID": "03.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+          ]
+        },
+        {
+          "lessID": "03.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify possible meanings of an artwork through observation",
+            "identify possible meanings of an artwork using experience",
+            "identify possible meanings of an artwork using prior knowledge",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "analyze exemplary works of art using prior knowledge and keen observation skills to reflect upon, interpret, and gain insight ",
+            "identify the elements of art in an artwork",
+            "recognize how an artist or designer used the elements of art to convey meaning",
+            "determine the meaning of an artwork created by another",
+            "make connections between art and other content areas",
+            "investigate how other content areas influence art",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "identify artworks that are important to a specific group or culture",
+            "identify artwork from different time periods or places",
+            "compare artworks created in different time periods or places",
+            "contrast artworks created in different time periods or places",
+            "use art vocabulary to discuss artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates the artistic vision"
+          ]
+        },
+        {
+          "lessID": "03.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "apply the elements of art to make artworks successful",
+            "find inspiration to complete artwork",
+            "identify areas in which to improve skill",
+            "revise artwork to achieve a goal",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "recognize that there is more than one way to solve an art problem",
+            "identify how others solve problems while creating artwork",
+            "identify how own problems were solved while creating artwork",
+            "think about how to solve a problem using art skills",
+            "use art skills to solve problems",
+            "explain how skills learned in art can be used in non-art areas",
+            "identify artwork from different time periods",
+            "compare artworks created in different time periods",
+            "contrast artworks created in different time periods",
+            "identify the importance of an artist's creativity ",
+            "identify the importance of an artist's technical ability ",
+            "use previous art knowledge to overcome creative challenges and complete artwork",
+            "use art vocabulary to discuss artwork",
+            "follow the steps used to create a work of art",
+            "use art tools correctly",
+            "develop the qualities of good craftsmanship through practice"
+          ]
+        },
+        {
+          "lessID": "03.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if it met artistic goals",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "create artwork that represents ideas",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "apply the elements of art to make artwork successful",
+            "use the elements of art to show unity in personal artwork",
+            "draw inspiration from life and thoughts to create personal artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or processes to create a variety of artworks ",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates the artistic vision",
+            "use artistic choices to plan artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different techniques to create two-dimensional artwork",
+            "use different techniques to create three-dimensional artwork",
+            "develop the qualities of good craftsmanship through practice",
+            "identify art tools",
+            "identify how to use art tools safely"
+          ]
+        }
+      ]
+    },
+    {
+      "mID": "4",
+      "lessons": [
+        {
+          "lessID": "04.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "make connections between art and other content areas",
+            "investigate how other content areas influence art",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+          ]
+        },
+        {
+          "lessID": "04.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify possible meanings of an artwork through observation",
+            "identify possible meanings of an artwork using experience",
+            "identify possible meanings of an artwork using prior knowledge",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "analyze exemplary works of art using prior knowledge and keen observation skills to reflect upon, interpret, and gain insight ",
+            "identify cultural influences in a work of art",
+            "identify historical influences in a work of art",
+            "recognize the ways in which history and culture have influenced art",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "identify artworks that are important to a specific group or culture",
+            "identify artwork from different time periods or places",
+            "compare artworks created in different time periods or places",
+            "contrast artworks created in different time periods or places",
+            "use art vocabulary to discuss artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+          ]
+        },
+        {
+          "lessID": "04.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "apply the elements of art to make artworks successful",
+            "find inspiration to complete artwork",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "identify artwork from different time periods",
+            "compare artworks created in different time periods",
+            "contrast artworks created in different time periods",
+            "identify the importance of an artist's creativity ",
+            "identify the importance of an artist's technical ability ",
+            "use art vocabulary to discuss artwork",
+            "follow the steps used to create a work of art",
+            "use art tools correctly",
+            "develop the qualities of good craftsmanship through practice"
+          ]
+        },
+        {
+          "lessID": "04.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "assess a personal work of art, focusing on completeness and objective",
+            "identify techniques used by others to help improve your art",
+            "compare techniques used by peers to improve your own work",
+            "compare techniques used by artists to improve your own work",
+            "define constructive criticism",
+            "understand that constructive criticism can be used to improve artwork",
+            "use constructive criticism to improve artwork",
+            "identify helpful and unhelpful critiques",
+            "critique your own artwork and the artwork of others",
+            "identify the use of structural elements of art",
+            "identify organizational principles of design",
+            "identify ways people can collaborate on art projects",
+            "give examples of artwork that was done through collaboration",
+            "collaborate to complete a task in art",
+            "recognize that different time periods and cultures use different art techniques, concepts, and media",
+            "incorporate ideas using examples of art from other cultures and time periods",
+            "identify accurate art vocabulary",
+            "choose accurate art vocabulary to describe works of art",
+            "choose accurate art vocabulary to describe art processes",
+            "engage in discussions",
+            "use appropriate voice and tone when speaking",
+            "engage in one's own learning for social and instructional purposes",
+            "identify the importance of creating personally meaningful art",
+            "identify what makes successful artworks",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "identify the importance of an artist's creativity ",
+            "identify the importance of an artist's technical ability"
+          ]
+        },
+        {
+          "lessID": "04.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if it met artistic goals",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "create artwork that represents ideas",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "apply the elements of art to make artworks successful",
+            "use the elements of art to show unity in personal artworks",
+            "draw inspiration from life and thoughts to create personal artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or process to create a variety of artworks ",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision",
+            "use artistic choices to plan artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different techniques to create two-dimensional artwork",
+            "use different techniques to create three-dimensional artwork",
+            "develop the qualities of good craftsmanship through practice",
+            "identify art tools",
+            "identify how to use art tools safely"
+          ]
+        }
+      ]
+    },
+    {
+      "mID": "5",
+      "lessons": [
+        {
+          "lessID": "05.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+          ]
+        },
+        {
+          "lessID": "05.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "make connections to professional artists",
+            "make connections to professional designers ",
+            "identify careers in art",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify possible meanings of an artwork through observation",
+            "identify possible meanings of an artwork using experience",
+            "identify possible meanings of an artwork using prior knowledge",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "analyze exemplary works of art using prior knowledge and keen observation skills to reflect upon, interpret, and gain insight ",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "identify artworks that are important to a specific group or culture",
+            "identify artwork from different time periods or places",
+            "compare artworks created in different time periods or places",
+            "contrast artworks created in different time periods or places",
+            "use art vocabulary to discuss artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates the artistic vision"
+          ]
+        },
+        {
+          "lessID": "05.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "apply the elements of art to make artworks successful",
+            "find inspiration to complete artwork",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "identify artwork from different time periods",
+            "compare artworks created in different time periods",
+            "contrast artworks created in different time periods",
+            "identify the importance of an artist's creativity ",
+            "identify the importance of an artist's technical ability ",
+            "use art vocabulary to discuss artwork",
+            "follow the steps used to create a work of art",
+            "use art tools correctly",
+            "develop the qualities of a good craftsmanship through practice",
+            "recognize how the law protects artworks",
+            "recognize how the law protects artists"
+          ]
+        },
+        {
+          "lessID": "05.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if it met artistic goals",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "create artwork that represents ideas",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "apply the elements of art to make artwork successful",
+            "use the elements of art to show unity in personal artwork",
+            "draw inspiration from life and thoughts to create personal artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or processes to create a variety of artworks ",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision",
+            "use artistic choices to plan artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different techniques to create two-dimensional artwork",
+            "use different techniques to create three-dimensional artwork",
+            "identify art tools",
+            "identify how to use art tools safely"
+          ]
+        }
+      ]
+    },
+    {
+      "mID": "6",
+      "lessons": [
+        {
+          "lessID": "06.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+          ]
+        },
+        {
+          "lessID": "06.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify possible meanings of an artwork through observation",
+            "identify possible meanings of an artwork using experience",
+            "identify possible meanings of an artwork using prior knowledge",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "analyze exemplary works of art using prior knowledge and keen observation skills to reflect upon, interpret and gain insight ",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "identify artworks that are important to a specific group or culture",
+            "identify how artworks impact everyday life",
+            "describe ways that artworks impact everyday life",
+            "identify artwork from different time periods or places",
+            "compare artworks created in different time periods or places",
+            "contrast artworks created in different time periods or places",
+            "use art vocabulary to discuss artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+          ]
+        },
+        {
+          "lessID": "06.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "apply the elements of art to make artworks successful",
+            "find inspiration to complete artwork",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "identify artwork from different time periods",
+            "compare artworks created in different time periods",
+            "contrast artworks created in different time periods",
+            "identify the importance of an artist's creativity ",
+            "identify the importance of an artist's technical ability ",
+            "use a variety of materials and techniques to create art",
+            "use art vocabulary to discuss artwork",
+            "follow the steps used to create a work of art",
+            "use art tools correctly",
+            "develop the qualities of good craftsmanship through practice"
+          ]
+        },
+        {
+          "lessID": "06.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "assess a personal work of art, focusing on completeness and objective",
+            "identify techniques used by others to help improve own art",
+            "compare techniques used by peers to improve own work",
+            "compare techniques used by artists to improve own work",
+            "define constructive criticism",
+            "understand that constructive criticism can be used to improve artwork",
+            "use constructive criticism to improve artwork",
+            "identify helpful and unhelpful critiques",
+            "critique own artwork and the artwork of others",
+            "identify the use of structural elements of art",
+            "identify organizational principles of design",
+            "identify ways people can collaborate on art projects",
+            "give examples of artwork that was done through collaboration",
+            "collaborate to complete a task in art",
+            "recognize that different time periods and cultures use different art techniques, concepts, and media",
+            "incorporate ideas using examples of art from other cultures and time periods",
+            "identify accurate art vocabulary",
+            "choose accurate art vocabulary to describe works of art",
+            "choose accurate art vocabulary to describe art processes",
+            "engage in discussions",
+            "use appropriate voice and tone when speaking",
+            "engage in one's own learning for social and instructional purposes",
+            "identify the importance of creating personally meaningful art",
+            "identify what makes successful artworks",
+            "discuss own interpretation of artworks using specific examples to support own ideas",
+            "identify the importance of an artist’s creativity ",
+            "identify the importance of an artist’s technical ability"
+          ]
+        },
+        {
+          "lessID": "06.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if it met artistic goals",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "create artwork that represents ideas",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "apply the elements of art to make artwork successful",
+            "use the elements of art to show unity in personal artwork",
+            "draw inspiration from life and thoughts to create personal artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or processes to create a variety of artworks ",
+            "use a variety of materials and techniques to create art",
+            "create artworks inspired by different cultures",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision",
+            "use artistic choices to plan artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different techniques to create two-dimensional artwork",
+            "use different techniques to create three-dimensional artwork",
+            "develop the qualities of good craftsmanship through practice",
+            "identify art tools",
+            "identify how to use art tools safely"
+          ]
+        }
+      ]
+    },
+
+
+    {
+      "mID": "7",
+      "lessons": [
+        {
+          "lessID": "07.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify an element of art in artwork",
+"identify the principles of design in an artwork",
+"use an element of art in artwork",
+"use the principles of design in my artwork",
+"use the elements of art to create a unified artwork",
+"create an artwork that communicates artistic vision"
+
+          ]
+        },
+        {
+          "lessID": "07.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify possible meanings of an artwork through observation",
+            "identify possible meanings of an artwork using experience",
+            "identify possible meanings of an artwork using prior knowledge",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "analyze exemplary works of art using prior knowledge and keen observation skills to reflect upon, interpret, and gain insight ",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "identify artworks that are important to a specific group or culture",
+            "identify ways that you can show respect for other's artwork",
+            "name a few ways you can show respect for others and their art",
+            "explain why it is important to show respect for others’ artworks",
+            "identify how artworks impact everyday life",
+            "describe ways that artworks impact everyday life",
+            "identify artwork from different time periods or places",
+            "compare artworks created in different time periods or places",
+            "contrast artworks created in different time periods or places",
+            "use art vocabulary to discuss artwork",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+            
+          ]
+        },
+        {
+          "lessID": "07.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "apply the elements of art to make artworks successful",
+            "find inspiration to complete artwork",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "identify artwork from different time periods",
+            "compare artworks created in different time periods",
+            "contrast artworks created in different time periods",
+            "identify the importance of an artist's creativity ",
+            "identify the importance of an artist's technical ability ",
+            "use art vocabulary to discuss artwork",
+            "follow the steps used to create a work of art",
+            "use art tools correctly",
+            "develop the qualities of good craftsmanship through practice"
+            
+          ]
+        },
+        
+        {
+          "lessID": "07.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if it met artistic goals",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "create artwork that represents ideas",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "apply the elements of art to make artwork successful",
+            "use the elements of art to show unity in personal artwork",
+            "draw inspiration from life and thoughts to create personal artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or processes to create a variety of artworks ",
+            "use a variety of materials and techniques to create art",
+            "create artworks inspired by different cultures",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates an artistic vision",
+            "use artistic choices to plan artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different techniques to create two-dimensional artwork",
+            "use different techniques to create three-dimensional artwork",
+            "develop the qualities of good craftsmanship through practice",
+            "identify art tools",
+            "identify how to use art tools safely"
+            
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "mID": "8",
+      "lessons": [
+        {
+          "lessID": "08.01",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "identify correct audience behavior",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision"
+            
+          ]
+        },
+        {
+          "lessID": "08.02",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify possible meanings of an artwork through observation",
+"identify possible meanings of an artwork using experience",
+"identify possible meanings of an artwork using prior knowledge",
+"discuss interpretation of artworks using specific examples to support ideas",
+"analyze exemplary works of art using prior knowledge and keen observation skills to reflect upon, interpret, and gain insight ",
+"identify an element of art in artwork",
+"identify the principles of design in an artwork",
+"use an element of art in artwork",
+"use the principles of design in artwork",
+"identify cultural influences in a work of art",
+"identify historical influences in a work of art",
+"recognize the ways in which history and culture have influenced art",
+"identify artworks that are important to a specific group or culture",
+"identify artwork from different time periods or places",
+"compare artworks created in different time periods or places",
+"contrast artworks created in different time periods or places",
+"use art vocabulary to discuss artwork",
+"use the elements of art to create a unified artwork",
+"create an artwork that communicates the artistic vision"
+
+          ]
+        },
+        {
+          "lessID": "08.03",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "apply the elements of art to make artworks successful",
+"find inspiration to complete artwork",
+"identify what makes successful artworks",
+"create artwork using learned skills and techniques to show artistic growth",
+"identify artwork from different time periods",
+"compare artworks created in different time periods",
+"contrast artworks created in different time periods",
+"identify the importance of an artist's creativity ",
+"identify the importance of an artist's technical ability ",
+"use art vocabulary to discuss artwork",
+"follow the steps used to create a work of art",
+"use art tools correctly",
+"develop the qualities of good craftsmanship through practice"
+
+          ]
+        },
+        {
+          "lessID": "08.04",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "assess a personal work of art, focusing on completeness and objective",
+            "identify techniques used by others to help improve your art",
+            "compare techniques used by peers to improve your own work",
+            "compare techniques used by artists to improve your own work",
+            "define constructive criticism",
+            "understand that constructive criticism can be used to improve artwork",
+            "use constructive criticism to improve artwork",
+            "identify helpful and unhelpful critiques",
+            "critique your own artwork and the artwork of others",
+            "identify the use of structural elements of art",
+            "identify organizational principles of design",
+            "identify ways people can collaborate on art projects",
+            "give examples of artwork that was done through collaboration",
+            "collaborate to complete a task in art",
+            "recognize that different time periods and cultures use different art techniques, concepts, and media",
+            "incorporate ideas using examples of art from other cultures and time periods",
+            "identify accurate art vocabulary",
+            "choose accurate art vocabulary to describe works of art",
+            "choose accurate art vocabulary to describe art processes",
+            "engage in discussions",
+            "use appropriate voice and tone when speaking",
+            "engage in one's own learning for social and instructional purposes",
+            "identify the importance of creating personally meaningful art",
+            "identify what makes successful artworks",
+            "discuss interpretation of artworks using specific examples to support ideas",
+            "identify the importance of an artist’s creativity ",
+            "identify the importance of an artist’s technical ability"
+            
+          ]
+        },
+        {
+          "lessID": "08.05",
+          "title": "After completing this lesson, you will be able to:",
+          "items": [
+            "identify the importance of creating personally meaningful art",
+            "examine personal works of art to determine if it met artistic goals",
+            "identify what makes successful artworks",
+            "create artwork using learned skills and techniques to show artistic growth",
+            "create artwork using imaginative techniques",
+            "create artwork that represents ideas",
+            "follow the steps used to create artwork",
+            "complete assignments on time",
+            "identify an element of art in artwork",
+            "identify the principles of design in an artwork",
+            "use an element of art in artwork",
+            "use the principles of design in artwork",
+            "apply the elements of art to make artwork successful",
+            "use the elements of art to show unity in personal artwork",
+            "draw inspiration from life and thoughts to create personal artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different tools, techniques, or process to create a variety of artworks ",
+            "use the elements of art to create a unified artwork",
+            "create an artwork that communicates artistic vision",
+            "use artistic choices to plan artwork",
+            "determine what tools, techniques, or processes will be best to create artwork",
+            "use different techniques to create two-dimensional artwork",
+            "use different techniques to create three-dimensional artwork",
+            "develop the qualities of good craftsmanship through practice",
+            "identify art tools",
+            "identify how to use art tools safely"
+            
+          ]
+        }
+      ]
+    }
+  ]
+}
