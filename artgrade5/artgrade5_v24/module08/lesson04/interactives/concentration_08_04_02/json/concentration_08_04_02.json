@@ -1,0 +1,58 @@
+{
+    "interactiveTitle": "Match the pictures with the correct word.",
+    "config": {
+        "src": "concentration",
+        "interactiveTitle": "Concentration",
+        "submitButton": "Solve Problem",
+        "restartButton": "Restart",
+        "bonus": false,
+        "version": 2,
+        "css": [
+            "interactives/concentration_08_04_02/css/styles.css"
+        ],
+        "copyright": [
+            "iStock"
+        ]
+    },
+    "settings": {
+        "directions": "Match the pictures with the correct word.",
+        "tryAgain": "Good try but not quite. Choose again.",
+        "correctBonus": "You win! You are an art expert. Select the ‘Restart’ button to play again. ",
+        "incorrectBonus": "Sorry, that's incorrect. The correct answer is:",
+        "congrats": " You win! You are an art expert. Select the ‘Restart’ button to play again.   "
+    },
+    "levels": [
+        [
+            {
+                "question": "Sports photography",
+                "answer": "<img src=\"interactives/concentration_08_04_02/intmedia/p2_img1.jpg\" class=\"img-responsive\" alt=\"a photo of a basketball game\" />"
+            },
+            {
+                "question": "Wedding photography",
+                "answer": "<img src=\"interactives/concentration_08_04_02/intmedia/p2_img2.jpg\" class=\"img-responsive\" alt=\"a photo that shows a photographer taking a picture of a bride and groom\" />"
+
+            },
+            {
+                "question": "Travel photography",
+                "answer": "<img src=\"interactives/concentration_08_04_02/intmedia/p2_img3.jpg\" class=\"img-responsive\" alt=\"a photo of mountains, a body of water, and stone buildings\" />"
+            },
+            {
+                "question": "Wildlife photography",
+                "answer": "<img src=\"interactives/concentration_08_04_02/intmedia/p2_img4.jpg\" class=\"img-responsive\" alt=\"a photo of a group of giraffes crossing a street\" />"
+            },
+            {
+                "question": "Family photography",
+                "answer": "<img src=\"interactives/concentration_08_04_02/intmedia/p2_img5.jpg\" class=\"img-responsive\" alt=\"a photo of a man and woman holding a baby\" />"
+            },
+            {
+                "question": "Culture photography",
+                "answer": "<img src=\"interactives/concentration_08_04_02/intmedia/p2_img6.jpg\" class=\"img-responsive\" alt=\"a photo of a glamorous man and woman having their picture taken by many people\" />"
+            },
+            {
+                "bonus_image": "interactives/concentration_08_04_02/intmedia/p2_img7.jpg",
+                "bonus_answer": "",
+                "bonus_alt": ""
+            }
+        ]
+    ]
+}

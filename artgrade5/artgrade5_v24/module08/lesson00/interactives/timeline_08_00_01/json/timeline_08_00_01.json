@@ -1,0 +1,46 @@
+{
+	"config": {
+		"src": "timeline",
+		"css": [
+			"interactives/timeline_08_00_01/styles.css"
+		],
+		"directions": "Use the slider to learn more about art careers in the community.",
+		"interactiveTitle": "Use the slider to learn more about art careers in the community.",
+		"intMedia": "",
+		
+		"entries": [
+			{
+				"title": "Animator",
+				"date": "",
+				"content": "<iframe src='https://cdnapisec.kaltura.com/p/2061901/sp/206190100/embedIframeJs/uiconf_id/33130941/partner_id/2061901?iframeembed=true&playerId=Kaltura&entry_id=1_8t9e3kv6' allowfullscreen ></iframe><p class='videotv'><strong>Video of:</strong> Animator <br> A person's hand can be seen drawing the initial drawing for a comic strip. Electronic style music plays in the background to create a productive harmony.",
+				"alt": "",
+				"copyright": "",
+				"summaryLength": "1200"
+			},
+			{
+				"title": "Baker",
+				"date": "",
+				"content": "<iframe src='https://cdnapisec.kaltura.com/p/2061901/sp/206190100/embedIframeJs/uiconf_id/33130941/partner_id/2061901?iframeembed=true&playerId=Kaltura&entry_id=1_igto94to' allowfullscreen ></iframe><p class='videotv'><strong>Video of:</strong> Baker <br> A baker's hands are seen creating a stuffed cookie by adding frosting to the bottom of one cookie and placing the bottom of another cookie on top. A light-sounding electronic keyboard with hand clapping and tapping plays in the background to create an inspiring melody.",
+				"alt": "",
+				"copyright": "",
+				"summaryLength": "1200"
+			},
+			{
+				"title": "Video Game Designer",
+				"date": "",
+				"content": "<iframe src='https://cdnapisec.kaltura.com/p/2061901/sp/206190100/embedIframeJs/uiconf_id/33130941/partner_id/2061901?iframeembed=true&playerId=Kaltura&entry_id=1_7q6y6v36' allowfullscreen ></iframe><p class='videotv'><strong>Video of:</strong> Video Game Designer<br> A person can be seen creating a video game aircraft on a computer. An electronic beat plays in the background as an electric guitar joins in to create hopeful background music.",
+				"alt": "",
+				"copyright": "",
+				"summaryLength": "1200"
+			},
+			{
+				"title": "Interior Designer",
+				"date": "",
+				"content": "<iframe src='https://cdnapisec.kaltura.com/p/2061901/sp/206190100/embedIframeJs/uiconf_id/33130941/partner_id/2061901?iframeembed=true&playerId=Kaltura&entry_id=1_5tt6vhcr' allowfullscreen ></iframe><p class='videotv'><strong>Video of:</strong> Interior Designer<br> A person sits at a desk with paint cards in front of her with a digital drawing of an interior space. An upbeat melody piano and tambourine melody plays in the background.",
+				"alt": "",
+				"copyright": "",
+				"summaryLength": "1200"
+			}
+		]
+	}
+}

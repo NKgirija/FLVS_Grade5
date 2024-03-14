@@ -1,0 +1,214 @@
+{
+  "config": {
+    "src": "quizmo",
+    "progressBar": false,
+    "theme": "standard",
+    "resultsPage": false,
+    "css": [
+      "interactives/flipcard_08_04_01/styles.css"
+    ],
+    "copyright": [
+      "iStock"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "directions": "Select each card to review important art vocabulary."
+      },
+      {
+        "type": "flipCard",
+        "cards": [
+          {
+            "height": "390px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Exhibit</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_01",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img1.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "An art exhibit gives an artist the chance to share their work with members of the community."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_02",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img2.jpg"
+              }
+            ]
+          },
+          {
+            "height": "390px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Venue</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_03",
+                "width": "100%",
+                "alt": "a colorful graphic painting of two head profiles",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img3.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "A venue is the place where an event, such as an art exhibit, takes place."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_04",
+                "width": "100%",
+                "alt": "a colorful graphic painting of two head profiles",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img4.jpg"
+              }
+            ]
+          },
+          {
+            "height": "390px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Criteria</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_05",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img5.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Criteria is the standard by which something can be judged. Some art exhibits have a list of criteria that is used to select artwork."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_06",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img6.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "flipCard",
+        "cards": [
+          {
+            "height": "390px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Self-portrait</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_07",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img7.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "A self-portrait is a drawing or painting of yourself."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_08",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img8.jpg"
+              }
+            ]
+          },
+          {
+            "height": "390px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Grid</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_09",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img9.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "A grid can be a helpful tool for artists to use when they are drawing."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_10",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img10.jpg"
+              }
+            ]
+          },
+          {
+            "height": "390px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Photojournalist</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_11",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img11.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "A photojournalist is someone who shares news with photographs."
+              },
+              {
+                "type": "image",
+                "id": "flipimg_12",
+                "width": "100%",
+                "alt": "",
+                "src": "interactives/flipcard_08_04_01/intmedia/p1_img12.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}

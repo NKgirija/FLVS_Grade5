@@ -1,0 +1,62 @@
+{
+    "config": {
+        "src": "quizmo",
+        "progressBar": false,
+        "theme": "standard",
+        "resultsPage": true,
+        "copyright": [
+            "iStock"
+        ]
+    },
+    "body": [
+        [
+            {
+                "type": "config",
+                "directions": "Select thumbs-up if the statement is true. Select thumbs-down if the statement is not true."
+            },
+            {
+                "type": "mc",
+                "options": [
+                    "<span class='false'>No</span><img src='interactives/yes_no_08_04_02/intmedia/thumbs_down_flvs.png' alt='thumbs-down'/>"
+                ],
+                "quiz": "<p>Frida Kahlo is known for creating self-portraits.</p> <img src='interactives/yes_no_08_04_02/intmedia/p2_img1.jpg' class='textimg' alt='' /><p class='texttext'><strong>Image of:</strong> </p>",
+                "answer": "<span class='true'>Yes</span><img src='interactives/yes_no_08_04_02/intmedia/thumbs_up_flvs.png' alt='thumbs-up'/>",
+                "correct": "Way to go! You know that Frida Kahlo is known for the self-portraits she painted.",
+                "incorrect": "Not quite. Give it one more try.",
+                "failed": "Remember, Frida Kahlo is known for the self-portraits she painted.",
+                "dontShuffle":true,
+                "chances":2
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span class='true'>Yes</span><img src='interactives/yes_no_08_04_02/intmedia/thumbs_up_flvs.png' alt='thumbs-up'/>"
+                ],
+                "quiz": "<p>Dorothea Lange was a photojournalist who shared important photos of people in the community. </p> <img src='interactives/yes_no_08_04_02/intmedia/p2_img2.jpg' class='textimg' alt='a photograph of Dorothea Lange taking a picture'/><p class='texttext'><strong>Image of:</strong> a photograph of Dorothea Lange taking a picture</p>",
+                "answer": "<span class='false'>No</span><img src='interactives/yes_no_08_04_02/intmedia/thumbs_down_flvs.png' alt='thumbs-down'/>",
+                "correct": "Great thinking! You know that Dorothea Lange was a photojournalist who shared important photos of migrants during the Great Depression.",
+                "incorrect": "Almost! Give it another try.",
+                "failed": "Remember, Dorothea Lange was a photojournalist who shared important photos of migrants during the Great Depression.",               
+                "dontShuffle":true,
+                "chances":2
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span class='true'>Yes</span><img src='interactives/yes_no_08_04_02/intmedia/thumbs_up_flvs.png' alt='thumbs-up'/>"
+                ],
+                "quiz": "<p>Digital cameras were the first cameras and were invented in 1850. </p> <img src='interactives/yes_no_08_04_02/intmedia/p2_img3.jpg' class='textimg' alt='a blue heart illustration'/><p class='texttext'><strong>Image of:</strong> a blue heart illustration</p>",
+                "answer": "<span class='false'>No</span><img src='interactives/yes_no_08_04_02/intmedia/thumbs_down_flvs.png' alt='thumbs-down'/>",
+                "correct": "Excellent work! You know that there were many cameras invented before the digital camera. Digital cameras were invented in the 1990s.",
+                "incorrect": "So close! I know you can do it.",
+                "failed": "Remember, there were many cameras invented before the digital camera. Digital cameras were invented in the 1990s.",
+                "dontShuffle":false,
+                "chances":2
+            }
+        ]
+    ]
+}

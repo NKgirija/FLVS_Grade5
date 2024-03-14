@@ -1,0 +1,80 @@
+/*
+!*CSS Document *!
+
+html .timeline .il_content .wrapper_tl .entry .imageHolder img {
+    padding: 10px 5px;
+}
+
+.ng_il .h2,
+.ng_il h2 {
+    font-size: 25px;
+}
+
+.wrapper_tl.il_content {
+    padding-bottom: 10px;
+}
+
+html .timeline .il_content .wrapper_tl .entry {
+    margin-top: 10px;
+}
+
+rzslider:focus-visible,
+rzslider:focus {
+    outline: -webkit-focus-ring-color auto 1px;
+}
+
+.copy.ng-binding {
+    font-size: small;
+    text-align: center;
+    padding: 5px;
+}
+
+.ng_il .viewport.il_textversion {
+    padding: 20px 15px;
+}
+
+.ng_il .viewport {
+    border-color: #1b7a00 !important;
+}
+.ng_il img{
+    border:none !important
+}*/
+
+.fev_timeline .viewport {
+    min-height: 370px;
+ }
+ 
+
+iframe {
+    width: 270px;
+}
+
+.ng_il .videotv{
+    display: none;
+}
+
+.fev_imagemarker .markerPopup {
+    width: 400px;
+}
+
+.ng_il .il_textversion .videotv{
+    display: block;
+}
+.ng_il .il_textversion iframe{
+    display: none;
+ }
+
+ .ng_il h2{
+    font-size: 26px !important;
+ }
+
+/* .ng_il .videotv{
+    display: none;
+}
+
+.ng_il .il_textversion .videotv{
+    display: block;
+}
+.ng_il .il_textversion iframe{
+    display: none;
+ } */
