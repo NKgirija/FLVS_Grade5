@@ -1,0 +1,15 @@
+.daContainer.daAdaptive {
+    min-width: 400px;
+    max-width: 750px;
+    width: 100%;
+    min-height: 400px;
+    max-height: 580px;
+    height: 100%;
+    background-color: #FFFFFF;
+}
+
+#DaSnapCanvas {
+    left: -99999px;
+    top:  -99999px;
+    position: absolute;
+}

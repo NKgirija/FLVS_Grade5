@@ -1,0 +1,105 @@
+[
+   {
+      "cluster": "true",
+      "contents": [
+         { 
+            "id":"stnd_MinRoundPen",
+            "togSize": "small",
+            "resource": "stnd_def_sm",
+            "initActive": "true",
+            "frameLoc": [5,0],
+            "onActivate": "PenType",
+            "onActivateParams": "round"
+         },
+         { 
+            "id":"stnd_MinSquarePen",
+            "togSize": "small",
+            "resource": "stnd_def_sm",
+            "frameLoc": [6,0],
+            "onActivate": "PenType",
+            "onActivateParams": "square"
+         },
+         { 
+            "id":"stnd_MinEraser",
+            "togSize": "small",
+            "resource": "stnd_def_sm",
+            "frameLoc": [7,0],
+            "onActivate": "EraseMode",
+            "onActivateParams": "true",
+            "onDeactivate": "EraseMode",
+            "onDeactivateParams": "false"
+         }
+      ]
+   },
+   {  
+      "cluster": "false",
+      "contents":[
+         {
+            "id": "stnd_MinColorPick",
+            "togSize": "small",
+            "resource": "stnd_def_sm",
+            "frameLoc": [0,0],
+            "subToggles": [
+               {
+                  "id":"black",
+                  "frameLoc":[1,0],
+                  "initActive": true,
+                  "onActivate": "DrawColor",
+                  "onActivateParams": "#000000"
+               },
+               {
+                  "id":"red",
+                  "frameLoc":[2,0],
+                  "onActivate": "DrawColor",
+                  "onActivateParams": "#FF0000"
+               },
+               {
+                  "id":"blue",
+                  "frameLoc":[3,0],
+                  "onActivate": "DrawColor",
+                  "onActivateParams": "#0000FF"
+               },
+               {
+                  "id":"green",
+                  "frameLoc":[4,0],
+                  "onActivate": "DrawColor",
+                  "onActivateParams": "#00FF00"
+               }
+            ]
+         },
+         { 
+            "id":"stnd_MinPenSize",
+            "togSize": "small",
+            "resource": "stnd_def_sm",
+            "frameLoc": [0,4],
+            "subToggles": [
+               {
+                  "id":"size1",
+                  "frameLoc":[1,4],
+                  "initActive": true,
+                  "onActivate": "DrawSize",
+                  "onActivateParams": "2"
+               },
+               {
+                  "id":"size2",
+                  "frameLoc":[2,4],
+                  "onActivate": "DrawSize",
+                  "onActivateParams": "6"
+               },
+               {
+                  "id":"size3",
+                  "frameLoc":[3,4],
+                  "onActivate": "DrawSize",
+                  "onActivateParams": "12"
+               },
+               {
+                  "id":"size4",
+                  "frameLoc":[4,4],
+                  "onActivate": "DrawSize",
+                  "onActivateParams": "22"
+               }
+            ]
+         }
+      ]
+   }
+]

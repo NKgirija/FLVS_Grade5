@@ -1,0 +1,103 @@
+{
+	"Config": {
+		"InteractiveTitle": "Magnetic Poetry",
+		"Background": "intmedia/background_gi.jpg",
+		"useWordTilts": false,
+		"dropZoneRectangle": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 650
+		},
+		"Instructions": "Put the image of Frida Kahlo together using the grid.",
+		"InstructionsVO": "",
+		"WordList": [
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img1.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img2.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img3.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img4.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img5.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img6.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img7.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img8.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img9.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img10.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img11.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			},
+			{
+				"magType": "image",
+				"src": "intmedia/p6_img12.png",
+				"hoverAudioSrc": "",
+				"numberOf": 4,
+				"word": ""
+			}
+		],
+		"Tutorial": []
+	},
+	"TextVersion": "<p>Put the image of Frida Kahlo together using the grid.</p>"
+}
