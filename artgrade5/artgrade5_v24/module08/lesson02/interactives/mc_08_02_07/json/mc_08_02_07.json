@@ -1,0 +1,70 @@
+{
+    "config": {
+        "src": "quizmo",
+        "progressBar": false,
+        "theme": "standard",
+        "resultsPage": true,
+        "directionsTextversion": "Choose the correct answer.",
+        "css": [
+            "interactives/mc_08_02_07/styles.css"
+        ],
+        "copyright": [
+           "iStock",
+           "Frida Kahlo ©  Britannica Image Quest",
+           "Self Portrait 5 by Evan Lovejoy © 2010 Evan Lovejoy, CC BY 2.0"
+        ]
+    },
+    "body": [
+        [
+            {
+                "type": "config",
+                "directions": "Choose the correct answer."
+            },            
+            {
+                "type": "mc",
+                "options": [
+                    "Murals",
+                    "Drawings",
+                    "Abstract paintings"
+                  
+                ],
+                "quiz": "<p>What is Frida Kahlo known for creating?</p> <img src='interactives/mc_08_02_07/intmedia/p7_img1.jpg' class='textimg' alt=''/><p class='texttext'><strong>Image of:</strong> </p>",
+                "answer": "Self-portraits ",
+                "correct": "Way to go! You know Frida Kahlo is best known for the self-portraits she painted.",
+                "incorrect": "Almost! Give it another try. ",
+                "failed": "So close! Remember, Frida Kahlo is best known for painting self-portraits."
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "Shape and size",
+                    "Balance and contrast ",
+                    "Color and value "
+                ],
+                
+                "quiz": "<p>Select the element of art and the principle of design that are most important when creating portraits.</p> <img src='interactives/mc_08_02_07/intmedia/p7_img2.png' class='textimg img-border-purple' alt='a charcoal self-portrait of a boy'/><p class='texttext'><strong>Image of:</strong> a charcoal self-portrait of a boy</p>",
+                "answer": "Line and proportion",
+                "correct": "Great work! You know that artists are purposeful about line and proportion when creating portraits.",
+                "incorrect": "Almost! Give it another try. ",
+                "failed": "You're almost there. Remember, line and proportion are important when creating portraits."
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "A globe",
+                    "An easel",
+                    "A palette "
+                ],
+                "quiz": "<p>What is a tool that can be used to help artists with drawing proportions?</p> <img src='interactives/mc_08_02_07/intmedia/p7_img3.jpg' class='img-border-purple textimg' alt=''/><p class='texttext'><strong>Image of:</strong> </p>",
+                "answer": "A grid",
+                "correct": "Way to go! You know that a grid is a tool that can help artists with drawing proportions.",
+                "incorrect": "Almost! Give it another try. ",
+                "failed": "You're almost there. Remember, a grid is a tool that can help artists with drawing proportions."
+            }
+        ]
+    ]
+}

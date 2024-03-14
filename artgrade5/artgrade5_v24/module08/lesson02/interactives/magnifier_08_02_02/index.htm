@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Untitled Document</title>
+    <link rel="stylesheet" href="interactives/magnifier_08_02_02/magnifier.css" />
+</head>
+
+<body>
+
+<div id="custom_interactive">
+    <div id="instructions">
+        <p>Move the magnifying glass to see the artwork up-close.</p>
+        <button id="closex" onclick="closex()" keydown="closex()" tabindex="0">CLOSE</button>
+    </div>
+    <button id="closex2" class="hidden" onclick="closex2()" keydown="closex2()" tabindex="0">?</button>
+<div class="flexthis">
+    <div id="bluebar"></div>
+    <button id="minus"></button>
+    <div id="some2">
+        <p id="some"></p><br>
+        <input type="radio" class="xyz ischecked" id="1" name="magvalue" value="1" checked>
+        <label for="1" id="1l"></label>
+        <input type="radio" class="xyz" id="2" name="magvalue" value="2">
+        <label for="2" id="2l"></label>
+        <input type="radio" class="xyz" id="3" name="magvalue" value="3">
+        <label for="3" id="3l"></label>
+        <input type="radio" class="xyz" id="4" name="magvalue" value="4">
+        <label for="4" id="4l"></label>
+        <input type="radio" class="xyz" id="5" name="magvalue" value="5">
+        <label for="5" id="5l"></label>
+    </div>
+    <button type="button" id="plus"></button>
+</div>
+
+<div id="magnifier">
+    <div class="img-magnifier-container">
+        <img id="myimage" class="bgimg" src="interactives/magnifier_08_02_02/intmedia/word_magnifier.jpg" height="380" alt="">
+    </div>
+
+</div></div>
+</body>
+
+<script src="interactives/magnifier_08_02_02/magnifier.js">
+</script></html>
