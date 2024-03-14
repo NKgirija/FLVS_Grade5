@@ -1,0 +1,175 @@
+{
+    "title": "Sketch Book",
+    "type": "object",
+    "description": "Sketchbook is an online drawing tool.  Users can choose brush type, size, and color.  They can create shapes using stamps and erase material with the eraser.  Authors can customize the sketchbook background image to create fun activities. Users can screen-capture or print of their art piece.",
+    "options": {
+        "disable_collapse": true,
+        "show_errors": "always"
+
+    },
+    "properties": {
+        "Config": {
+            "type": "object",
+            "title": "Settings",
+            "options": {
+                "disable_collapse": false,
+                "disable_properties": true,
+                "disable_edit_json": true
+            },
+            "properties": {
+                "InteractiveTitle": {
+                    "type": "string",
+                    "default": "Sketch Tool",
+                    "options": {
+                        "hidden": true
+                    }
+                },
+                "IntroWindowText": {
+                   "type": "string",
+                   "default": "Welcome to the sketch tool. With this tool you can draw images onto the canvas.  The draw, select a tool from the left.  You can choose from the pencil, watercolor, and the eraser, each come in 4 sizes. After making a selection simply click or tap on the canvas and drag to draw. the 4th icon will allow you to stamp shapes onto your canvas with a single click. The last icon will allow you to change color.  The 4 buttons below your canvas will preform special functions. Capture will download your image, and Print will let you print the image. You can use the Undo to undo your last stroke and Start Over to start over. If you accidentally start over, don't worry, you can Undo this as well."
+                },
+                "IntroWindowAudio":{
+                   "type":"string",
+                   "default": "audio/narritive_intro.mp3"
+                },
+                "LanguageCode": {
+                   "type": "string",
+                   "options":{
+                      "hidden": true
+                   },
+                   "default": "EN",
+                   "enum": [
+                      "EN",
+                      "ES"
+                   ]
+                },
+                "Background": {
+                   "type": "string",
+                   "default": ""
+                },
+                "Tutorial": {
+                    "type": "array",
+                    "description": "Choose from two types of tooltips: time-based and click-based. Time-based tooltips will disappear after the specified duration (in milliseconds). Click-based tooltips must be clicked on to disappear. To position the tooltips, give it using x and y coordinates (in pixels). The direction for the tooltip (up, down, left, or right) determines which side of your coordinates the tooltip will appear.",
+                    "format": "tabs",
+                    "options": {
+                        "collapsed": true
+                    },
+                    "items": {
+                        "title": "Step",
+                        "oneOf": [{
+                            "title": "Time-Based",
+                            "type": "object",
+                            "options": {
+                                "disable_collapse": true,
+                                "disable_properties": true,
+                                "disable_edit_json": true
+                            },
+                            "properties": {
+                                "text": {
+                                    "title": "Tooltip Text Here",
+                                    "type": "string"
+                                },
+                                "textVO": {
+                                    "title": "Audio Source",
+                                    "type": "string"
+                                },
+                                "direction": {
+                                    "title": "Direction of the Tooltip",
+                                    "type": "string",
+                                    "enum": ["left", "right", "up", "down"]
+                                },
+                                "x": {
+                                    "title": "X Coordinate for the Tooltip",
+                                    "type": "integer"
+                                },
+                                "y": {
+                                    "title": "Y Coordinate for the Tooltip",
+                                    "type": "integer"
+                                },
+                                "width": {
+                                    "title": "Width of the Tooltip",
+                                    "type": "integer",
+                                    "default": 250
+                                },
+                                "progress": {
+                                    "type": "string",
+                                    "enum": ["time"],
+                                    "options": {
+                                        "hidden": true
+                                    }
+                                },
+                                "duration": {
+                                    "title": "Duration of the Tooltip",
+                                    "type": "integer",
+                                    "default": 3000
+                                },
+                                "onStepStart": {
+                                    "type": "string",
+                                    "description": "Javascript function to call on start of this step",
+                                    "default": "[%js];",
+                                    "options": {
+                                        "hidden": true
+                                    }
+                                }
+                            }
+                  }, {
+                            "title": "Click-Based",
+                            "type": "object",
+                            "options": {
+                                "disable_collapse": true,
+                                "disable_properties": true,
+                                "disable_edit_json": true
+                            },
+                            "properties": {
+                                "text": {
+                                    "type": "string"
+                                },
+                                "textVO": {
+                                    "type": "string"
+                                },
+                                "direction": {
+                                    "type": "string",
+                                    "enum": ["left", "right", "up", "down"]
+                                },
+                                "x": {
+                                    "type": "integer"
+                                },
+                                "y": {
+                                    "type": "integer"
+                                },
+                                "width": {
+                                    "type": "integer",
+                                    "default": 250
+                                },
+                                "progress": {
+                                    "type": "string",
+                                    "enum": ["click"],
+                                    "options": {
+                                        "hidden": true
+                                    }
+                                },
+                                "targets": {
+                                    "type": "array",
+                                    "description": "The ID of the items wich need to be clicked on in order to advance",
+                                    "format": "tabs",
+                                    "items": {
+                                        "title": "TargetID",
+                                        "type": "string"
+                                    }
+                                },
+                                "onStepStart": {
+                                    "type": "string",
+                                    "description": "Javascript function to call on start of this step",
+                                    "default": "[%js];",
+                                    "options": {
+                                        "hidden": true
+                                    }
+                                }
+                            }
+                  }]
+                    }
+                }
+            }
+        }
+    }
+}
