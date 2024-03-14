@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemap>
+  <!-- Getting Started -->
+  <module title="Getting Started" visible="true" mID="gs">
+    <lesson num="" title="Getting Started" time="5" points="0">
+      <page href="../../getting_started/lesson01/gs_01_01.htm" title="01.01" />
+      <page href="../../getting_started/lesson01/gs_01_02.htm" title="01.02" />
+      <page href="../../getting_started/lesson01/gs_01_03.htm" title="01.03" />
+      <page href="../../getting_started/lesson01/gs_01_04.htm" title="01.04" />
+      <page href="../../getting_started/lesson01/gs_01_05.htm" title="01.05" />
+      <page href="../../getting_started/lesson01/gs_01_06.htm" title="01.06" />
+    </lesson>
+  </module>
+
+  <!-- Main Course content -->
+  <!-- Module 01 Start -->
+  <module title="Line" visible="true" icon="" bg="" mID="1" num="01">
+    <lesson title="Line: Pretest" num="01.00" time="45" points="1" lID="0">
+      <page href="../../module01/lesson00/01_00_01.htm" title="01.00 Page 01" />
+    </lesson>
+    <lesson title="Line" num="01.01" time="45" points="0" lID="1">
+      <page href="../../module01/lesson01/01_01_01.htm" title="01.01 Page 01" />
+      <page href="../../module01/lesson01/01_01_02.htm" title="01.01 Page 02" />
+      <page href="../../module01/lesson01/01_01_03.htm" title="01.01 Page 03" />
+      <page href="../../module01/lesson01/01_01_04.htm" title="01.01 Page 04" />
+      <page href="../../module01/lesson01/01_01_05.htm" title="01.01 Page 05" />
+      <page href="../../module01/lesson01/01_01_06.htm" title="01.01 Page 06" />
+      <page href="../../module01/lesson01/01_01_07.htm" title="01.01 Page 07" />
+      <page href="../../module01/lesson01/01_01_08.htm" title="01.01 Page 08" />
+    </lesson>
+    <lesson title="Meet an Artist: Banksy" num="01.02" time="45" points="0" lID="2">
+      <page href="../../module01/lesson02/01_02_01.htm" title="01.02 Page 01" />
+      <page href="../../module01/lesson02/01_02_02.htm" title="01.02 Page 02" />
+      <page href="../../module01/lesson02/01_02_03.htm" title="01.02 Page 03" />
+      <page href="../../module01/lesson02/01_02_04.htm" title="01.02 Page 04" />
+      <page href="../../module01/lesson02/01_02_05.htm" title="01.02 Page 05" />
+      <page href="../../module01/lesson02/01_02_06.htm" title="01.02 Page 06" />
+      <page href="../../module01/lesson02/01_02_07.htm" title="01.02 Page 07" />
+      <page href="../../module01/lesson02/01_02_08.htm" title="01.02 Page 08" />
+      <page href="../../module01/lesson02/01_02_09.htm" title="01.02 Page 09" />
+    </lesson>
+    <lesson title="Be the Artist: Drawing" num="01.03" time="45" points="21" lID="3">
+      <page href="../../module01/lesson03/01_03_01.htm" title="01.03 Page 01" />
+      <page href="../../module01/lesson03/01_03_02.htm" title="01.03 Page 02" />
+      <page href="../../module01/lesson03/01_03_03.htm" title="01.03 Page 03" />
+      <page href="../../module01/lesson03/01_03_04.htm" title="01.03 Page 04" />
+      <page href="../../module01/lesson03/01_03_05.htm" title="01.03 Page 05" />
+      <page href="../../module01/lesson03/01_03_06.htm" title="01.03 Page 06" />
+      <page href="../../module01/lesson03/01_03_07.htm" title="01.03 Page 07" />
+      <page href="../../module01/lesson03/01_03_08.htm" title="01.03 Page 08" />
+      <page href="../../module01/lesson03/01_03_09.htm" title="01.03 Page 09" />
+    </lesson>
+    <lesson title="Line: Review" num="01.04" time="45" points="0" lID="4">
+      <page href="../../module01/lesson04/01_04_01.htm" title="01.04 Page 01" />
+      <page href="../../module01/lesson04/01_04_02.htm" title="01.04 Page 02" />
+    </lesson>
+    <lesson title="Line: Graffiti Art" num="01.05" time="45" points="50" lID="5">
+      <page href="../../module01/lesson05/01_05_01.htm" title="01.05 Page 01" />
+      <page href="../../module01/lesson05/01_05_02.htm" title="01.05 Page 02" />
+      <page href="../../module01/lesson05/01_05_03.htm" title="01.05 Page 03" />
+      <page href="../../module01/lesson05/01_05_04.htm" title="01.05 Page 04" />
+    </lesson>
+  </module>
+  <!-- Module 01 End -->
+
+  <!-- Module 02 Start -->
+  <module title="Shape" visible="true" icon="" bg="" mID="2" num="02">
+    <lesson title="Shape: Pretest" num="02.00" time="45" points="1" lID="0">
+      <page href="../../module02/lesson00/02_00_01.htm" title="02.00 Page 01" />
+    </lesson>
+    <lesson title="Shape" num="02.01" time="45" points="0" lID="1">
+      <page href="../../module02/lesson01/02_01_01.htm" title="02.01 Page 01" />
+      <page href="../../module02/lesson01/02_01_02.htm" title="02.01 Page 02" />
+      <page href="../../module02/lesson01/02_01_03.htm" title="02.01 Page 03" />
+      <page href="../../module02/lesson01/02_01_04.htm" title="02.01 Page 04" />
+      <page href="../../module02/lesson01/02_01_05.htm" title="02.01 Page 05" />
+      <page href="../../module02/lesson01/02_01_06.htm" title="02.01 Page 06" />
+      <page href="../../module02/lesson01/02_01_07.htm" title="02.01 Page 07" />
+      <page href="../../module02/lesson01/02_01_08.htm" title="02.01 Page 08" />
+    </lesson>
+    <lesson title="Meet an Artist: Hilma af Klint" num="02.02" time="45" points="0" lID="2">
+      <page href="../../module02/lesson02/02_02_01.htm" title="02.02 Page 01" />
+      <page href="../../module02/lesson02/02_02_02.htm" title="02.02 Page 02" />
+      <page href="../../module02/lesson02/02_02_03.htm" title="02.02 Page 03" />
+      <page href="../../module02/lesson02/02_02_04.htm" title="02.02 Page 04" />
+      <page href="../../module02/lesson02/02_02_05.htm" title="02.02 Page 05" />
+      <page href="../../module02/lesson02/02_02_06.htm" title="02.02 Page 06" />
+      <page href="../../module02/lesson02/02_02_07.htm" title="02.02 Page 07" />
+      <page href="../../module02/lesson02/02_02_08.htm" title="02.02 Page 08" />
+    </lesson>
+    <lesson title="Be the Artist: Prints" num="02.03" time="45" points="21" lID="3">
+      <page href="../../module02/lesson03/02_03_01.htm" title="02.03 Page 01" />
+      <page href="../../module02/lesson03/02_03_02.htm" title="02.03 Page 02" />
+      <page href="../../module02/lesson03/02_03_03.htm" title="02.03 Page 03" />
+      <page href="../../module02/lesson03/02_03_04.htm" title="02.03 Page 04" />
+      <page href="../../module02/lesson03/02_03_05.htm" title="02.03 Page 05" />
+      <page href="../../module02/lesson03/02_03_06.htm" title="02.03 Page 06" />
+      <page href="../../module02/lesson03/02_03_07.htm" title="02.03 Page 07" />
+      <page href="../../module02/lesson03/02_03_08.htm" title="02.03 Page 08" />
+      <page href="../../module02/lesson03/02_03_09.htm" title="02.03 Page 09" />
+    </lesson>
+    <lesson title="Shape: Discussion-Based Assessment" num="02.04" time="45" points="25" lID="4">
+      <page href="../../module02/lesson04/02_04_01.htm" title="02.04 Page 01" />
+      <page href="../../module02/lesson04/02_04_02.htm" title="02.04 Page 02" />
+      <page href="../../module02/lesson04/02_04_03.htm" title="02.04 Page 03" />
+    </lesson>
+    <lesson title="Shape: Patterned Print" num="02.05" time="45" points="50" lID="5">
+      <page href="../../module02/lesson05/02_05_01.htm" title="02.05 Page 01" />
+      <page href="../../module02/lesson05/02_05_02.htm" title="02.05 Page 02" />
+      <page href="../../module02/lesson05/02_05_03.htm" title="02.05 Page 03" />
+      <page href="../../module02/lesson05/02_05_04.htm" title="02.05 Page 04" />
+    </lesson>
+  </module>
+  <!-- Module 02 End -->
+
+  <!-- Module 03 Start -->
+  <module title="Color" visible="true" icon="" bg="" mID="3" num="03">
+    <lesson title="Color: Pretest" num="03.00" time="45" points="1" lID="0">
+      <page href="../../module03/lesson00/03_00_01.htm" title="03.00 Page 01" />
+    </lesson>
+    <lesson title="Color" num="03.01" time="45" points="0" lID="1">
+      <page href="../../module03/lesson01/03_01_01.htm" title="03.01 Page 01" />
+      <page href="../../module03/lesson01/03_01_02.htm" title="03.01 Page 02" />
+      <page href="../../module03/lesson01/03_01_03.htm" title="03.01 Page 03" />
+      <page href="../../module03/lesson01/03_01_04.htm" title="03.01 Page 04" />
+      <page href="../../module03/lesson01/03_01_05.htm" title="03.01 Page 05" />
+      <page href="../../module03/lesson01/03_01_06.htm" title="03.01 Page 06" />
+      <page href="../../module03/lesson01/03_01_07.htm" title="03.01 Page 07" />
+      <page href="../../module03/lesson01/03_01_08.htm" title="03.01 Page 08" />
+    </lesson>
+    <lesson title="Meet an Artist: Mary Cassatt" num="03.02" time="45" points="0" lID="2">
+      <page href="../../module03/lesson02/03_02_01.htm" title="03.02 Page 01" />
+      <page href="../../module03/lesson02/03_02_02.htm" title="03.02 Page 02" />
+      <page href="../../module03/lesson02/03_02_03.htm" title="03.02 Page 03" />
+      <page href="../../module03/lesson02/03_02_04.htm" title="03.02 Page 04" />
+      <page href="../../module03/lesson02/03_02_05.htm" title="03.02 Page 05" />
+      <page href="../../module03/lesson02/03_02_06.htm" title="03.02 Page 06" />
+      <page href="../../module03/lesson02/03_02_07.htm" title="03.02 Page 07" />
+      <page href="../../module03/lesson02/03_02_08.htm" title="03.02 Page 08" />
+    </lesson>
+    <lesson title="Be the Artist: Paint" num="03.03" time="45" points="21" lID="3">
+      <page href="../../module03/lesson03/03_03_01.htm" title="03.03 Page 01" />
+      <page href="../../module03/lesson03/03_03_02.htm" title="03.03 Page 02" />
+      <page href="../../module03/lesson03/03_03_03.htm" title="03.03 Page 03" />
+      <page href="../../module03/lesson03/03_03_04.htm" title="03.03 Page 04" />
+      <page href="../../module03/lesson03/03_03_05.htm" title="03.03 Page 05" />
+      <page href="../../module03/lesson03/03_03_06.htm" title="03.03 Page 06" />
+      <page href="../../module03/lesson03/03_03_07.htm" title="03.03 Page 07" />
+      <page href="../../module03/lesson03/03_03_08.htm" title="03.03 Page 08" />
+    </lesson>
+    <lesson title="Color: Review" num="03.04" time="45" points="0" lID="4">
+      <page href="../../module03/lesson04/03_04_01.htm" title="03.04 Page 01" />
+      <page href="../../module03/lesson04/03_04_02.htm" title="03.04 Page 02" />
+    </lesson>
+    <lesson title="Color: Trading Card" num="03.05" time="45" points="50" lID="5">
+      <page href="../../module03/lesson05/03_05_01.htm" title="03.05 Page 01" />
+      <page href="../../module03/lesson05/03_05_02.htm" title="03.05 Page 02" />
+      <page href="../../module03/lesson05/03_05_03.htm" title="03.05 Page 03" />
+      <page href="../../module03/lesson05/03_05_04.htm" title="03.05 Page 04" />
+    </lesson>
+  </module>
+  <!-- Module 03 End -->
+
+  <!-- Module 04 Start -->
+  <module title="Value" visible="true" icon="" bg="" mID="4" num="04">
+    <lesson title="Value: Pretest" num="04.00" time="45" points="1" lID="0">
+      <page href="../../module04/lesson00/04_00_01.htm" title="04.00 Page 01" />
+    </lesson>
+    <lesson title="Value" num="04.01" time="45" points="0" lID="1">
+      <page href="../../module04/lesson01/04_01_01.htm" title="04.01 Page 01" />
+      <page href="../../module04/lesson01/04_01_02.htm" title="04.01 Page 02" />
+      <page href="../../module04/lesson01/04_01_03.htm" title="04.01 Page 03" />
+      <page href="../../module04/lesson01/04_01_04.htm" title="04.01 Page 04" />
+      <page href="../../module04/lesson01/04_01_05.htm" title="04.01 Page 05" />
+      <page href="../../module04/lesson01/04_01_06.htm" title="04.01 Page 06" />
+      <page href="../../module04/lesson01/04_01_07.htm" title="04.01 Page 07" />
+      <page href="../../module04/lesson01/04_01_08.htm" title="04.01 Page 08" />
+    </lesson>
+    <lesson title="Meet an Artist: Utagawa Hiroshige" num="04.02" time="45" points="0" lID="2">
+      <page href="../../module04/lesson02/04_02_01.htm" title="04.02 Page 01" />
+      <page href="../../module04/lesson02/04_02_02.htm" title="04.02 Page 02" />
+      <page href="../../module04/lesson02/04_02_03.htm" title="04.02 Page 03" />
+      <page href="../../module04/lesson02/04_02_04.htm" title="04.02 Page 04" />
+      <page href="../../module04/lesson02/04_02_05.htm" title="04.02 Page 05" />
+      <page href="../../module04/lesson02/04_02_06.htm" title="04.02 Page 06" />
+      <page href="../../module04/lesson02/04_02_07.htm" title="04.02 Page 07" />
+      <page href="../../module04/lesson02/04_02_08.htm" title="04.02 Page 08" />
+    </lesson>
+    <lesson title="Be the Artist: Pastels" num="04.03" time="45" points="21" lID="3">
+      <page href="../../module04/lesson03/04_03_01.htm" title="04.03 Page 01" />
+      <page href="../../module04/lesson03/04_03_02.htm" title="04.03 Page 02" />
+      <page href="../../module04/lesson03/04_03_03.htm" title="04.03 Page 03" />
+      <page href="../../module04/lesson03/04_03_04.htm" title="04.03 Page 04" />
+      <page href="../../module04/lesson03/04_03_05.htm" title="04.03 Page 05" />
+      <page href="../../module04/lesson03/04_03_06.htm" title="04.03 Page 06" />
+      <page href="../../module04/lesson03/04_03_07.htm" title="04.03 Page 07" />
+      <page href="../../module04/lesson03/04_03_08.htm" title="04.03 Page 08" />
+      <page href="../../module04/lesson03/04_03_09.htm" title="04.03 Page 09" />
+    </lesson>
+    <lesson title="Value: Discussion-Based Assessment" num="04.04" time="45" points="25" lID="4">
+      <page href="../../module04/lesson04/04_04_01.htm" title="04.04 Page 01" />
+      <page href="../../module04/lesson04/04_04_02.htm" title="04.04 Page 02" />
+      <page href="../../module04/lesson04/04_04_03.htm" title="04.04 Page 03" />
+    </lesson>
+    <lesson title="Value: Value Art" num="04.05" time="45" points="50" lID="5">
+      <page href="../../module04/lesson05/04_05_01.htm" title="04.05 Page 01" />
+      <page href="../../module04/lesson05/04_05_02.htm" title="04.05 Page 02" />
+      <page href="../../module04/lesson05/04_05_03.htm" title="04.05 Page 03" />
+      <page href="../../module04/lesson05/04_05_04.htm" title="04.05 Page 04" />
+    </lesson>
+  </module>
+  <!-- Module 04 End -->
+
+  <!-- Module 05 Start -->
+  <module title="Space" visible="true" icon="" bg="" mID="5" num="05">
+    <lesson title="Space: Pretest" num="05.00" time="45" points="1" lID="0">
+      <page href="../../module05/lesson00/05_00_01.htm" title="05.00 Page 01" />
+    </lesson>
+    <lesson title="Space" num="05.01" time="45" points="0" lID="1">
+      <page href="../../module05/lesson01/05_01_01.htm" title="05.01 Page 01" />
+      <page href="../../module05/lesson01/05_01_02.htm" title="05.01 Page 02" />
+      <page href="../../module05/lesson01/05_01_03.htm" title="05.01 Page 03" />
+      <page href="../../module05/lesson01/05_01_04.htm" title="05.01 Page 04" />
+      <page href="../../module05/lesson01/05_01_05.htm" title="05.01 Page 05" />
+      <page href="../../module05/lesson01/05_01_06.htm" title="05.01 Page 06" />
+      <page href="../../module05/lesson01/05_01_07.htm" title="05.01 Page 07" />
+      <page href="../../module05/lesson01/05_01_08.htm" title="05.01 Page 08" />
+    </lesson>
+    <lesson title="Meet an Artist: Salvador Dalí" num="05.02" time="45" points="0" lID="2">
+      <page href="../../module05/lesson02/05_02_01.htm" title="05.02 Page 01" />
+      <page href="../../module05/lesson02/05_02_02.htm" title="05.02 Page 02" />
+      <page href="../../module05/lesson02/05_02_03.htm" title="05.02 Page 03" />
+      <page href="../../module05/lesson02/05_02_04.htm" title="05.02 Page 04" />
+      <page href="../../module05/lesson02/05_02_05.htm" title="05.02 Page 05" />
+      <page href="../../module05/lesson02/05_02_06.htm" title="05.02 Page 06" />
+      <page href="../../module05/lesson02/05_02_07.htm" title="05.02 Page 07" />
+      <page href="../../module05/lesson02/05_02_08.htm" title="05.02 Page 08" />
+    </lesson>
+    <lesson title="Be the Artist: Collage" num="05.03" time="45" points="21" lID="3">
+      <page href="../../module05/lesson03/05_03_01.htm" title="05.03 Page 01" />
+      <page href="../../module05/lesson03/05_03_02.htm" title="05.03 Page 02" />
+      <page href="../../module05/lesson03/05_03_03.htm" title="05.03 Page 03" />
+      <page href="../../module05/lesson03/05_03_04.htm" title="05.03 Page 04" />
+      <page href="../../module05/lesson03/05_03_05.htm" title="05.03 Page 05" />
+      <page href="../../module05/lesson03/05_03_06.htm" title="05.03 Page 06" />
+      <page href="../../module05/lesson03/05_03_07.htm" title="05.03 Page 07" />
+      <page href="../../module05/lesson03/05_03_08.htm" title="05.03 Page 08" />
+    </lesson>
+    <lesson title="Space: Review" num="05.04" time="45" points="0" lID="4">
+      <page href="../../module05/lesson04/05_04_01.htm" title="05.04 Page 01" />
+      <page href="../../module05/lesson04/05_04_02.htm" title="05.04 Page 02" />
+    </lesson>
+    <lesson title="Space: Cityscape" num="05.05" time="45" points="50" lID="5">
+      <page href="../../module05/lesson05/05_05_01.htm" title="05.05 Page 01" />
+      <page href="../../module05/lesson05/05_05_02.htm" title="05.05 Page 02" />
+      <page href="../../module05/lesson05/05_05_03.htm" title="05.05 Page 03" />
+      <page href="../../module05/lesson05/05_05_04.htm" title="05.05 Page 04" />
+    </lesson>
+  </module>
+  <!-- Module 05 End -->
+
+  <!-- Module 06 Start -->
+  <module title="Form" visible="true" icon="" bg="" mID="6" num="06">
+    <lesson title="Form: Pretest" num="06.00" time="45" points="1" lID="0">
+      <page href="../../module06/lesson00/06_00_01.htm" title="06.00 Page 01" />
+    </lesson>
+    <lesson title="Form" num="06.01" time="45" points="0" lID="1">
+      <page href="../../module06/lesson01/06_01_01.htm" title="06.01 Page 01" />
+      <page href="../../module06/lesson01/06_01_02.htm" title="06.01 Page 02" />
+      <page href="../../module06/lesson01/06_01_03.htm" title="06.01 Page 03" />
+      <page href="../../module06/lesson01/06_01_04.htm" title="06.01 Page 04" />
+      <page href="../../module06/lesson01/06_01_05.htm" title="06.01 Page 05" />
+      <page href="../../module06/lesson01/06_01_06.htm" title="06.01 Page 06" />
+      <page href="../../module06/lesson01/06_01_07.htm" title="06.01 Page 07" />
+      <page href="../../module06/lesson01/06_01_08.htm" title="06.01 Page 08" />
+    </lesson>
+    <lesson title="Meet an Artist: Edmonia Lewis" num="06.02" time="45" points="0" lID="2">
+      <page href="../../module06/lesson02/06_02_01.htm" title="06.02 Page 01" />
+      <page href="../../module06/lesson02/06_02_02.htm" title="06.02 Page 02" />
+      <page href="../../module06/lesson02/06_02_03.htm" title="06.02 Page 03" />
+      <page href="../../module06/lesson02/06_02_04.htm" title="06.02 Page 04" />
+      <page href="../../module06/lesson02/06_02_05.htm" title="06.02 Page 05" />
+      <page href="../../module06/lesson02/06_02_06.htm" title="06.02 Page 06" />
+      <page href="../../module06/lesson02/06_02_07.htm" title="06.02 Page 07" />
+      <page href="../../module06/lesson02/06_02_08.htm" title="06.02 Page 08" />
+    </lesson>
+    <lesson title="Be the Artist: Form" num="06.03" time="45" points="21" lID="3">
+      <page href="../../module06/lesson03/06_03_01.htm" title="06.03 Page 01" />
+      <page href="../../module06/lesson03/06_03_02.htm" title="06.03 Page 02" />
+      <page href="../../module06/lesson03/06_03_03.htm" title="06.03 Page 03" />
+      <page href="../../module06/lesson03/06_03_04.htm" title="06.03 Page 04" />
+      <page href="../../module06/lesson03/06_03_05.htm" title="06.03 Page 05" />
+      <page href="../../module06/lesson03/06_03_06.htm" title="06.03 Page 06" />
+      <page href="../../module06/lesson03/06_03_07.htm" title="06.03 Page 07" />
+      <page href="../../module06/lesson03/06_03_08.htm" title="06.03 Page 08" />
+    </lesson>
+    <lesson title="Form: Discussion-Based Assessment" num="06.04" time="45" points="25" lID="4">
+      <page href="../../module06/lesson04/06_04_01.htm" title="06.04 Page 01" />
+      <page href="../../module06/lesson04/06_04_02.htm" title="06.04 Page 02" />
+      <page href="../../module06/lesson04/06_04_03.htm" title="06.04 Page 03" />
+    </lesson>
+    <lesson title="Form: Sculpture" num="06.05" time="45" points="50" lID="5">
+      <page href="../../module06/lesson05/06_05_01.htm" title="06.05 Page 01" />
+      <page href="../../module06/lesson05/06_05_02.htm" title="06.05 Page 02" />
+      <page href="../../module06/lesson05/06_05_03.htm" title="06.05 Page 03" />
+      <page href="../../module06/lesson05/06_05_04.htm" title="06.05 Page 04" />
+    </lesson>
+  </module>
+  <!-- Module 06 End -->
+
+  <!-- Module 07 Start -->
+  <module title="Texture" visible="true" icon="" bg="" mID="7" num="07">
+    <lesson title="Texture: Pretest" num="07.00" time="45" points="1" lID="0">
+      <page href="../../module07/lesson00/07_00_01.htm" title="07.00 Page 01" />
+    </lesson>
+    <lesson title="Texture" num="07.01" time="45" points="0" lID="1">
+      <page href="../../module07/lesson01/07_01_01.htm" title="07.01 Page 01" />
+      <page href="../../module07/lesson01/07_01_02.htm" title="07.01 Page 02" />
+      <page href="../../module07/lesson01/07_01_03.htm" title="07.01 Page 03" />
+      <page href="../../module07/lesson01/07_01_04.htm" title="07.01 Page 04" />
+      <page href="../../module07/lesson01/07_01_05.htm" title="07.01 Page 05" />
+      <page href="../../module07/lesson01/07_01_06.htm" title="07.01 Page 06" />
+      <page href="../../module07/lesson01/07_01_07.htm" title="07.01 Page 07" />
+      <page href="../../module07/lesson01/07_01_08.htm" title="07.01 Page 08" />
+    </lesson>
+    <lesson title="Meet an Artist: El Anatsui" num="07.02" time="45" points="0" lID="2">
+      <page href="../../module07/lesson02/07_02_01.htm" title="07.02 Page 01" />
+      <page href="../../module07/lesson02/07_02_02.htm" title="07.02 Page 02" />
+      <page href="../../module07/lesson02/07_02_03.htm" title="07.02 Page 03" />
+      <page href="../../module07/lesson02/07_02_04.htm" title="07.02 Page 04" />
+      <page href="../../module07/lesson02/07_02_05.htm" title="07.02 Page 05" />
+      <page href="../../module07/lesson02/07_02_06.htm" title="07.02 Page 06" />
+      <page href="../../module07/lesson02/07_02_07.htm" title="07.02 Page 07" />
+      <page href="../../module07/lesson02/07_02_08.htm" title="07.02 Page 08" />
+    </lesson>
+    <lesson title="Be the Artist: Assemblage" num="07.03" time="45" points="21" lID="3">
+      <page href="../../module07/lesson03/07_03_01.htm" title="07.03 Page 01" />
+      <page href="../../module07/lesson03/07_03_02.htm" title="07.03 Page 02" />
+      <page href="../../module07/lesson03/07_03_03.htm" title="07.03 Page 03" />
+      <page href="../../module07/lesson03/07_03_04.htm" title="07.03 Page 04" />
+      <page href="../../module07/lesson03/07_03_05.htm" title="07.03 Page 05" />
+      <page href="../../module07/lesson03/07_03_06.htm" title="07.03 Page 06" />
+      <page href="../../module07/lesson03/07_03_07.htm" title="07.03 Page 07" />
+      <page href="../../module07/lesson03/07_03_08.htm" title="07.03 Page 08" />
+    </lesson>
+    <lesson title="Texture: Review" num="07.04" time="45" points="0" lID="4">
+      <page href="../../module07/lesson04/07_04_01.htm" title="07.04 Page 01" />
+      <page href="../../module07/lesson04/07_04_02.htm" title="07.04 Page 02" />
+    </lesson>
+    <lesson title="Texture: Coral Reef" num="07.05" time="45" points="50" lID="5">
+      <page href="../../module07/lesson05/07_05_01.htm" title="07.05 Page 01" />
+      <page href="../../module07/lesson05/07_05_02.htm" title="07.05 Page 02" />
+      <page href="../../module07/lesson05/07_05_03.htm" title="07.05 Page 03" />
+      <page href="../../module07/lesson05/07_05_04.htm" title="07.05 Page 04" />
+    </lesson>
+  </module>
+  <!-- Module 07 End -->
+  
+  <!-- Module 08 Start -->
+  <module title="Community" visible="true" icon="" bg="" mID="8" num="08">
+    <lesson title="Community: Pretest" num="08.00" time="45" points="1" lID="0">
+      <page href="../../module08/lesson00/08_00_01.htm" title="08.00 Page 01" />
+    </lesson>
+    <lesson title="Community" num="08.01" time="45" points="0" lID="1">
+      <page href="../../module08/lesson01/08_01_01.htm" title="08.01 Page 01" />
+      <page href="../../module08/lesson01/08_01_02.htm" title="08.01 Page 02" />
+      <page href="../../module08/lesson01/08_01_03.htm" title="08.01 Page 03" />
+      <page href="../../module08/lesson01/08_01_04.htm" title="08.01 Page 04" />
+      <page href="../../module08/lesson01/08_01_05.htm" title="08.01 Page 05" />
+      <page href="../../module08/lesson01/08_01_06.htm" title="08.01 Page 06" />
+      <page href="../../module08/lesson01/08_01_07.htm" title="08.01 Page 07" />
+      <page href="../../module08/lesson01/08_01_08.htm" title="08.01 Page 08" />
+    </lesson>
+    <lesson title="Meet an Artist: Frida Kahlo" num="08.02" time="45" points="0" lID="2">
+      <page href="../../module08/lesson02/08_02_01.htm" title="08.02 Page 01" />
+      <page href="../../module08/lesson02/08_02_02.htm" title="08.02 Page 02" />
+      <page href="../../module08/lesson02/08_02_03.htm" title="08.02 Page 03" />
+      <page href="../../module08/lesson02/08_02_04.htm" title="08.02 Page 04" />
+      <page href="../../module08/lesson02/08_02_05.htm" title="08.02 Page 05" />
+      <page href="../../module08/lesson02/08_02_06.htm" title="08.02 Page 06" />
+      <page href="../../module08/lesson02/08_02_07.htm" title="08.02 Page 07" />
+      <page href="../../module08/lesson02/08_02_08.htm" title="08.02 Page 08" />
+    </lesson>
+    <lesson title="Be the Artist: Mixed Media" num="08.03" time="45" points="21" lID="3">
+      <page href="../../module08/lesson03/08_03_01.htm" title="08.03 Page 01" />
+      <page href="../../module08/lesson03/08_03_02.htm" title="08.03 Page 02" />
+      <page href="../../module08/lesson03/08_03_03.htm" title="08.03 Page 03" />
+      <page href="../../module08/lesson03/08_03_04.htm" title="08.03 Page 04" />
+      <page href="../../module08/lesson03/08_03_05.htm" title="08.03 Page 05" />
+      <page href="../../module08/lesson03/08_03_06.htm" title="08.03 Page 06" />
+      <page href="../../module08/lesson03/08_03_07.htm" title="08.03 Page 07" />
+      <page href="../../module08/lesson03/08_03_08.htm" title="08.03 Page 08" />
+    </lesson>
+    <lesson title="Community: Discussion-Based Assessment" num="08.04" time="45" points="25" lID="4">
+      <page href="../../module08/lesson04/08_04_01.htm" title="08.04 Page 01" />
+      <page href="../../module08/lesson04/08_04_02.htm" title="08.04 Page 02" />
+      <page href="../../module08/lesson04/08_04_03.htm" title="08.04 Page 03" />
+    </lesson>
+    <lesson title="Community: Self-Portrait" num="08.05" time="45" points="50" lID="5">
+      <page href="../../module08/lesson05/08_05_01.htm" title="08.05 Page 01" />
+      <page href="../../module08/lesson05/08_05_02.htm" title="08.05 Page 02" />
+      <page href="../../module08/lesson05/08_05_03.htm" title="08.05 Page 03" />
+      <page href="../../module08/lesson05/08_05_04.htm" title="08.05 Page 04" />
+    </lesson>
+  </module>
+  <!-- Module 08 End -->
+
+  <!-- Welcome -->
+  <module title="Welcome" visible="true" icon="" bg="" num="" gl_state="flvs-off" mID="wf"
+    modID="welcome">
+    <lesson title="Course Information" num="" time="30" points="0" gl_state="flvs-off">
+      <page href="../../welcome_artgrade5_v24/course_information/course_information.htm"
+        title="Welcome: Page 1" gl_state="flvs-off" />
+    </lesson>
+  </module>
+  <module title="Welcome" visible="flase" icon="" bg="" num="" gl_default="false" gl_state="flvs"
+    mID="wffl" modID="welcome">
+    <lesson title="Course Information" num="" time="30" points="0" gl_default="false"
+      gl_state="flvs">
+      <page href="../../welcome_artgrade5_v24/course_information/general.htm"
+        title="Welcome: Page 1" gl_default="false" gl_state="flvs" />
+    </lesson>
+  </module>
+
+
+  <!-- TEMP MODULE FOR CONFIGURING CSS - REMOVE WHEN LOOK/FEEL COMPLETE -->
+  <module title="Style Guide" visible="true" icon="" bg="" mID="">
+    <lesson title="Style Guide" num="" time="N/A" points="N/A">
+      <page href="../../template/lesson00/tmp_00_01.htm" title="Standard Elements" />
+      <page href="../../template/lesson00/tmp_00_02.htm" title="Panels, Wells and Content Blocks" />
+      <page href="../../template/lesson00/tmp_00_03.htm" title="Media" />
+      <page href="../../template/lesson00/tmp_00_04.htm" title="Interactive Elements" />
+      <page href="../../template/lesson00/tmp_00_05.htm" title="Slideshows and Activities" />
+    </lesson>
+  </module>
+</sitemap>

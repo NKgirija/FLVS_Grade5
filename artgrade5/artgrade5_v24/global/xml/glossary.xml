@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+  
+  <!-- EXAMPLE
+	<item term="Cherries">
+		<![CDATA[ A delicious red fruit you put on ice cream.]]>
+	</item>
+	  
+-->
+  <item term="Annotate ">
+    <![CDATA[Making notes directly onto a text such as a book, a handout, or another type of publication.]]>
+  </item>
+  <item term="Objective Summary">
+    <![CDATA[An objective summary includes only factual information from the original source and does not include the emotional or biased opinions.]]>
+  </item>
+  <item term="Inferences">
+    <![CDATA[Meanings determined by the reader which may not be explicitly stated in the text.]]>
+  </item>
+  <item term="Rendition">
+    <![CDATA[A translation or interpretation.]]>
+  </item>
+  <item term="Denotations">
+    <![CDATA[The dictionary definition of a word; the literal, precise or exact meaning of a word.]]>
+  </item>
+  <item term="35">
+    <![CDATA[Just a number]]>
+  </item>
+</glossary>
