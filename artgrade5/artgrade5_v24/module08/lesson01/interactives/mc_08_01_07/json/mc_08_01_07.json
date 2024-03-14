@@ -1,0 +1,66 @@
+{
+    "config": {
+        "src": "quizmo",
+        "progressBar": false,
+        "theme": "standard",
+        "resultsPage": true,
+        "directionsTextversion": "Choose the correct answer.",
+        "css": [
+            "interactives/mc_08_01_07/styles.css"
+        ],
+        "copyright": [
+            "iStock"
+        ]
+    },
+    "body": [
+        [
+            {
+                "type": "config",
+                "directions": "Choose the correct answer."
+            },            
+            {
+                "type": "mc",
+                "options": [
+                    "They have a lot of rules.",
+                    "They are always filled with artwork from famous painters.",
+                    "They are good places for artists to find work to copy."
+                ],
+                "quiz": "<p>Why are art exhibits important for the community?</p><img src='interactives/mc_08_01_07/intmedia/p7_img1.jpg' class='textimg' alt=''/><p class='texttext'><strong>Image of:</strong> </p>",
+                "answer":  "They give people a chance to talk about and enjoy art.",
+                "correct": "Way to go! You know that art exhibits give people a chance to talk about and enjoy art!",
+                "incorrect": "Almost! Give it another try.",
+                "failed": "So close! Remember, art exhibits give people in the community a chance to talk about and enjoy art."
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "Only at museums",
+                    "Only in galleries",
+                    "In police stations, fire stations, and post offices"
+                ],
+                "quiz": "<p>Where in the community can art exhibits take place?</p><img src='interactives/mc_08_01_07/intmedia/p7_img2.jpg' class='textimg' alt=''/><p class='texttext'><strong>Image of:</strong> </p>",
+                "answer":  "In parks, libraries, schools, and museums  ",
+                "correct": "Great work! You know that art exhibits can take place in many different places. They are often held in parks, libraries, schools, and museums.",
+                "incorrect": "Almost! Give it another try.",
+                "failed": "You're almost there. Remember, art exhibits can take place in many different places. They are often held in parks, libraries, schools, and museums."
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "Theme",
+                    "Inspiration",
+                    "Competition"
+                ],
+                "quiz": "<p>Select the term that is used to describe the rules to submit art to an exhibit.</p> <img src='interactives/mc_08_01_07/intmedia/p7_img3.jpg' class='textimg' alt=''/><p class='texttext'><strong>Image of:</strong> </p>",
+                "answer": "Criteria",
+                "correct": "Way to go! You know that the criteria are the rules to submit art for an exhibition.",
+                "incorrect": "Almost! Give it another try.",
+                "failed": "You're almost there. Remember, if you want to submit art for an exhibition, it is important to follow the criteria."
+            }
+        ]
+    ]
+}

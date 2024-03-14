@@ -1,0 +1,172 @@
+  {
+  "config": {
+    "src": "quizmo",
+    "progressBar": false,
+    "theme": "standard",
+    "resultsPage": false,
+    "css": [
+      "interactives/flipcard_08_01_03/styles.css"
+    ],
+    "copyright": [    
+      "iStock"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "config",
+        "directions": "Select each card to learn important details about art exhibits."
+      },
+      {
+        "type": "flipCard",
+        "cards": [
+          {
+            "height": "370px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>What is an art exhibit?</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_01",
+                "width": "100%",
+                "alt": "three people smiling and looking at framed art on a wall",
+                "src": "interactives/flipcard_08_01_03/intmedia/p3_img1.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "An art exhibit is a way for artists to put their artwork on display in a public place. Exhibits give people in the community a chance to enjoy art."
+              }
+            ]
+          },
+          {
+            "height": "370px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Who are exhibits for?</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_02",
+                "width": "100%",
+                "alt": "a woman and a young girl pointing at art and talking",
+                "src": "interactives/flipcard_08_01_03/intmedia/p3_img2.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Professional artists, students, and members of the community can all participate in art exhibits and have their work on display."
+              }
+            ]
+          },
+          {
+            "height": "370px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Where do art exhibits take place?</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_03",
+                "width": "100%",
+                "alt": "an outdoor art exhibit",
+                "src": "interactives/flipcard_08_01_03/intmedia/p3_img3.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "There are many different places for art exhibits. They are often found at schools, libraries, art galleries, festivals, parks, and county fairs."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "flipCard",
+        "cards": [
+          {
+            "height": "370px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>When do art exhibits take place?</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_04",
+                "width": "100%",
+                "alt": "three people looking at art and taking photos",
+                "src": "interactives/flipcard_08_01_03/intmedia/p3_img4.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Art exhibits are taking place all the time! They occur many different times throughout the year."
+              }
+            ]
+          },
+          {
+            "height": "370px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>Why are exhibits important for the community?</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_05",
+                "width": "100%",
+                "alt": "a woman talking to two people about a piece of art on display",
+                "src": "interactives/flipcard_08_01_03/intmedia/p3_img5.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Art exhibits give people in the community a chance to enjoy art. The artist gets the chance to learn, grow, and share a special message or idea with the community."
+              }
+            ]
+          },
+          {
+            "height": "370px",
+            "width": "250px",
+            "front": [
+              {
+                "type": "text",
+                "content": "<strong>How can an artist get their work in an exhibit?</strong>"
+              },
+              {
+                "type": "image",
+                "id": "flipimg_06",
+                "width": "100%",
+                "alt": "a small group of people discussing a sculpture",
+                "src": "interactives/flipcard_08_01_03/intmedia/p3_img6.jpg"
+              }
+            ],
+            "back": [
+              {
+                "type": "text",
+                "content": "Once you find an art exhibit to join, see if there are any guidelines. Select a work of art you are proud of and want to share with others."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}

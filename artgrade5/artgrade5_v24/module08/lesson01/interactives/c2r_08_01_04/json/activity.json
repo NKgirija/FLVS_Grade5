@@ -1,0 +1,43 @@
+{
+    "config": {
+        "src": "click2Reveal",
+        "css": [
+            "interactives/c2r_08_01_04/styles.css"
+        ],
+        "copyright": [
+           "iStock",
+           "Shutterstock"
+           
+            
+        ],
+        "instructions": "Select each tab to learn more about art exhibits.<br/><img src='interactives/c2r_08_01_04/intmedia/p4_img1.jpg' class='center-block imght' alt='smiling artist near a display of her work' />",
+        "title": "Art Exhibits",
+        "interactiveTitle": "Click2Reveal",
+        "buttonHeight": 100,
+        "resultsPage": false,
+        "progressBar": false
+    },
+    "body": [
+        {
+            "label": "Theme",
+            "details": "Some art exhibits have a specific theme. This means that all of the art that is on display will connect to the theme in some way.<br/><br/>The theme could be almost anything! It is interesting for visitors to see how different artists had different ideas for the theme.<br/><br/>Some examples include:<br/><ul><li>Imaginary Worlds</li><li>Everyday Heroes</li><li>The Magic of Science</li><li>Cultural Celebrations</li><li>Feelings and Emotions</li></ul>",
+            "image": "interactives/c2r_08_01_04/intmedia/p4_img2.jpg",
+            "imagealt": "a man looking at modern art displayed on screens at a gallery",
+            "caption": ""
+        },
+        {
+            "label": "Venue",
+            "details": "The venue is where the exhibit is taking place. Some examples of venues include:<br/><ul><li>galleries or museums</li><li>public parks</li><li>schools</li><li>libraries</li></ul><br/>There may be specific rules for the exhibit that relate to the venue. For example:<br/><ul><li>an exhibit at an elementary school may only have art from students who attend that school</li><li>sculptures being submitted for an exhibit at a gallery may have to be smaller versions of a large-scale art so they fit in the space</li><li>paintings on display at an exhibit in the park might need to fit on the easels that are provided</li></ul>",
+            "image": "interactives/c2r_08_01_04/intmedia/p4_img3.jpg",
+            "imagealt": "colored canvases on easels on display",
+            "caption": ""
+        },
+        {
+            "label": "Criteria",
+            "details": "Almost all exhibits will have a list of criteria. The criteria tells the artists the rules for the exhibit. The criteria will be different based on what type of exhibition it is.<br/><br/>The goal of some art exhibits is to display artwork. At this type of exhibition, the criteria might include things like the type of art and the size of the art that should be submitted.<br/><br/>Other exhibits are competitive. At a competitive exhibit, the art is judged and scored. A competitive exhibit will have an extra set of criteria that will help the artist choose artwork that will get the highest score.",
+            "image": "interactives/c2r_08_01_04/intmedia/p4_img4.jpg",
+            "imagealt": "a woman looking at art in a gallery",
+            "caption": ""
+        }
+    ]
+}

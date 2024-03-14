@@ -1,0 +1,63 @@
+{
+    "config": {
+        "src": "quizmo",
+        "progressBar": false,
+        "theme": "standard",
+        "resultsPage": true,
+        "copyright": [
+            "iStock",
+            "Shutterstock"
+        ]
+    },
+    "body": [
+        [
+            {
+                "type": "config",
+                "directions": "Select thumbs-up if the statement is true. Select thumbs-down if the statement is not true."
+            },
+            {
+                "type": "mc",
+                "options": [
+                    "<span class='false'>No</span><img src='interactives/yes_no_08_01_06/intmedia/thumbs_down_flvs.png' alt='thumbs-down'/>"
+                ],
+                "quiz": "<p>Artwork does not need to be complete to be submitted to an art exhibit.</p> <img src='interactives/yes_no_08_01_06/intmedia/p6_img1.jpg' class='textimg' alt='' /><p class='texttext'><strong>Image of:</strong> </p>",
+                "answer": "<span class='true'>Yes</span><img src='interactives/yes_no_08_01_06/intmedia/thumbs_up_flvs.png' alt='thumbs-up'/>",
+                "correct": "Way to go! You know that if you are submitting artwork for an exhibition, it should be work that you are proud of. You should always submit artwork that is neat and complete.",
+                "incorrect": "Not quite. Give it one more try.",
+                "failed": "Remember, if you are submitting artwork for an exhibition, it should be work you are proud of. You should always submit artwork that is neat and complete.",
+                "dontShuffle":true,
+                "chances":2
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span class='true'>Yes</span><img src='interactives/yes_no_08_01_06/intmedia/thumbs_up_flvs.png' alt='thumbs-up'/>"
+                ],
+                "quiz": "<p>When community members attend an art exhibit, they should be respectful and use art etiquette.</p> <img src='interactives/yes_no_08_01_06/intmedia/p6_img2.jpg' class='textimg' alt=''/><p class='texttext'><strong>Image of:</strong> </p>",
+                "answer": "<span class='false'>No</span><img src='interactives/yes_no_08_01_06/intmedia/thumbs_down_flvs.png' alt='thumbs-down'/>",
+                "correct": "Great thinking! You know it is important for visitors to be respectful at an art exhibit.",
+                "incorrect": "So close! I know you can do it.",
+                "failed": "Almost! Remember, it is important to be respectful and to use good art etiquette when you attend an art exhibit.",               
+                "dontShuffle":true,
+                "chances":2
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span class='false'>No</span><img src='interactives/yes_no_08_01_06/intmedia/thumbs_down_flvs.png' alt='thumbs-down'/>"
+                ],
+                "quiz": "<p>An artist should be creative and submit any kind of artwork they choose to an exhibit.</p> <img class='img-border-purple' src='interactives/yes_no_08_01_06/intmedia/p6_img3.jpg' class='textimg' alt=''/><p class='texttext'><strong>Image of:</strong> </p>",
+                "answer": "<span class='true'>Yes</span><img src='interactives/yes_no_08_01_06/intmedia/thumbs_up_flvs.png' alt='thumbs-up'/>",
+                "correct": "Excellent work! You know that an artist should always consider the criteria before submitting artwork for an exhibit.",
+                "incorrect": "So close! I know you can do it.",
+                "failed": "Remember, an artist should always consider the criteria for an exhibit and submit work they are proud of.",
+                "dontShuffle":false,
+                "chances":2
+            }
+        ]
+    ]
+}
