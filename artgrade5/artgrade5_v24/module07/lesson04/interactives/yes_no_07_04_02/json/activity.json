@@ -1,0 +1,62 @@
+{
+    "config": {
+        "src": "quizmo",
+        "progressBar": false,
+        "theme": "standard",
+        "resultsPage": true,
+        "copyright": [
+            "iStock"
+        ]
+    },
+    "body": [
+        [
+            {
+                "type": "config",
+                "directions": "Select thumbs-up if the statement is true. Select thumbs-down if the statement is not true."
+            },
+            {
+                "type": "mc",
+                "options": [
+                    "<span class='false'>No</span><img src='interactives/yes_no_07_04_02/intmedia/thumbs_down_flvs.png' alt='thumbs-down'/>"
+                ],
+                "quiz": "<p>This is an image of art with actual texture.</p> <img src='interactives/yes_no_07_04_02/intmedia/p2_img1.jpg' class='textimg' alt='a wall panel of cotton threads in beige color' /><p class='texttext'><strong>Image of:</strong> a wall panel of cotton threads in beige color</p>",
+                "answer": "<span class='true'>Yes</span><img src='interactives/yes_no_07_04_02/intmedia/thumbs_up_flvs.png' alt='thumbs-up'/>",
+                "correct": "Way to go! This artwork has actual texture you can feel with your hands.",
+                "incorrect": "Not quite. Give it one more try.",
+                "failed": "Nice try. This artwork does have actual texture that can be felt with your hands.",
+                "dontShuffle":true,
+                "chances":2
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span class='true'>Yes</span><img src='interactives/yes_no_07_04_02/intmedia/thumbs_up_flvs.png' alt='thumbs-up'/>"
+                ],
+                "quiz": "<p>This image of art was created with repurposed materials.</p> <img src='interactives/yes_no_07_04_02/intmedia/p2_img2.jpg' class='textimg' alt='a landscape painting of flowers'/><p class='texttext'><strong>Image of:</strong> a landscape painting of flowers</p>",
+                "answer": "<span class='false'>No</span><img src='interactives/yes_no_07_04_02/intmedia/thumbs_down_flvs.png' alt='thumbs-down'/>",
+                "correct": "Great thinking! The image was not created with repurposed materials. It was created with oil paints.",
+                "incorrect": "Almost! Give it another try.",
+                "failed": "Nice try. This artwork was not created with repurposed materials. It was created with oil paints.",               
+                "dontShuffle":true,
+                "chances":2
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "<span class='true'>Yes</span><img src='interactives/yes_no_07_04_02/intmedia/thumbs_up_flvs.png' alt='thumbs-up'/>"
+                ],
+                "quiz": "<p>This is an example of art with mixed media.</p> <img class='img-border-purple' src='interactives/yes_no_07_04_02/intmedia/p2_img3.jpg' class='textimg' alt='a blue heart illustration'/><p class='texttext'><strong>Image of:</strong> a blue heart illustration</p>",
+                "answer": "<span class='false'>No</span><img src='interactives/yes_no_07_04_02/intmedia/thumbs_down_flvs.png' alt='thumbs-down'/>",
+                "correct": "Excellent work! You are correct; this is not an example of mixed media because only one medium was used, watercolor.",
+                "incorrect": "So close! I know you can do it.",
+                "failed": "Nice try. The art example was not created with mixed media; it was created with only one medium, watercolor.",
+                "dontShuffle":true,
+                "chances":2
+            }
+        ]
+    ]
+}
