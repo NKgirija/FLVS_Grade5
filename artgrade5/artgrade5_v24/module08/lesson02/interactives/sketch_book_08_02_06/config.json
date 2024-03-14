@@ -1,9 +1,0 @@
-{
-   "InteractiveTitle": "Sketch Book",
-   "LanguageCode": "EN",
-   "IntroWindowText": "Welcome to the sketch tool. With this tool you can draw images onto the canvas.  The draw, select a tool from the left.  You can choose from the pencil, watercolor, and the eraser, each come in 4 sizes. After making a selection simply click or tap on the canvas and drag to draw. the 4th icon will allow you to stamp shapes onto your canvas with a single click. The last icon will allow you to change color.  The 4 buttons below your canvas will preform special functions. Capture will download your image, and Print will let you print the image. You can use the Undo to undo your last stroke and Start Over to start over. If you accidentally start over, don't worry, you can Undo this as well.",
-   "IntroWindowAudio": "",
-   "IntroWindowHeight": "300",
-   "Background": "",
-   "Tutorial": []
-}

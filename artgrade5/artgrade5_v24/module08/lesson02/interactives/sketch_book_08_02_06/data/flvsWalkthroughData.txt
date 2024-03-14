@@ -1,4 +1,0 @@
-{
-   "ID": "flvsWalkthrough",
-   "Steps": "[%js]config.Tutorial"
-}

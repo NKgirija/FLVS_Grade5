@@ -1,7 +1,0 @@
-{
-    "loading": "Loading...",
-    "TapBegin": "Tap here to start",
-    "printBlock": "Interactive is blocked while print dialog is open. Please close print window before proceeding.",
-    "popupBlockerWarn": "A pop-up blocker has prevented this interactive from saving. Please adjust your browser settings, or ad-blocker, to allow pop-ups for this page."
-}
-
