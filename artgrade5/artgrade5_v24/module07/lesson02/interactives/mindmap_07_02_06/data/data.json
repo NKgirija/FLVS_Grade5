@@ -1,0 +1,45 @@
+{
+  "Config": {
+    "InteractiveTitle": "MindMap",
+    "ColourScheme": "theme2",
+    "Instructions": "Select each bubble to learn more about using art for activism.",
+    "InstructionsVO": "",
+    "Caption": "Exploring Art Activism",
+    "CaptionVO": "",
+    "Tutorial": [],
+    "copyright": [
+      "iStock",
+      "© 2023 Associated Press"
+    ]
+  },
+  "Bubbles": [
+    {
+      "type": "text",
+      "title": "Posters",
+      "titleVO": "",
+      "img": "intmedia/img_1.jpg",
+      "text": "Posters are a powerful and widely used medium to mobilize support and bring attention for different causes.",
+      "alt": "a poster with red, yellow, and green colors with the words Black History Month",
+      "textVO": ""
+    },
+    {
+      "type": "text",
+      "title": "Murals",
+      "titleVO": "",
+      "img": "intmedia/img_2.jpg",
+      "text": "Murals are large scale, public artworks created on walls or other surfaces in spaces to raise awareness of issues.",
+      "alt": "a little girl holding a heart balloon artwork created by Banksy",
+      "textVO": ""
+    },
+    {
+      "type": "text",
+      "title": "Performance Art",
+      "titleVO": "",
+      "img": "intmedia/img_3.jpg",
+      "text": "Performance art is a form of artistic expression in which an artist uses their body, time, and space to convey a message.",
+      "alt": "a man wearing white face paint and holding a heart-shaped object",
+      "textVO": ""
+    }
+  ],
+  "TextVersion": "<h5>Exploring Art Activism</h5><p><strong>Posters:</strong> Posters are a powerful and widely used medium to mobilize support and bring attention for different causes.</p><p><strong>Image description:</strong> a poster with red, yellow, and green colors with the words Black History Month</p> <p><strong>Murals:</strong> Murals are large-scale, public artworks created on walls or other surfaces in spaces to raise awareness to issues.</p><p><strong>Image description:</strong> a little girl holding a heart balloon artwork created by Banksy</p> <p><strong>Performance Art:</strong> Performance art is a form of artistic expression where an artist uses their body, time, and space to convey a message.</p><p><strong>Image description:</strong> a man wearing white face paint and holding a heart-shaped object</p>"
+}
