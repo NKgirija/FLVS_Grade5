@@ -1,0 +1,66 @@
+{
+    "config": {
+        "src": "quizmo",
+        "progressBar": false,
+        "theme": "standard",
+        "resultsPage": true,
+        "directionsTextversion": "Choose the correct answer.",
+        "css": [
+            "interactives/mc_07_01_07/styles.css"
+        ],
+        "copyright": [
+            "iStock"
+        ]
+    },
+    "body": [
+        [
+            {
+                "type": "config",
+                "directions": "Choose the correct answer."
+            },            
+            {
+                "type": "mc",
+                "options": [
+                    "Brittle texture",
+                    "Natural texture",
+                    "Actual texture"
+                ],
+                "quiz": "<p>What texture cannot be felt with hands like rough and smooth?</p><img src='interactives/mc_07_01_07/intmedia/p7_img1.jpg' class='textimg img-border-purple' alt='a snake drawing'/><p class='texttext'><strong>Image of:</strong> a snake drawing</p>",
+                "answer":  "Implied texture",
+                "correct": "Way to go! It is implied texture. You know your stuff about textures!",
+                "incorrect": "Almost! Give it another try.",
+                "failed": "So close! Remember, implied texture is a texture that cannot be felt with your hands."
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "Ask questions and talk loudly",
+                    "Take time and brainstorm",
+                    "Touch with dirty hands and ask rude questions"
+                ],
+                "quiz": "<p>What should you do before taking a photo of someone’s artwork?</p><img src='interactives/mc_07_01_07/intmedia/p7_img2.jpg' class='textimg img-border-purple' alt='a hand taking a photograph of a painting with a phone'/><p class='texttext'><strong>Image of:</strong> a hand taking a photograph of a painting with a phone</p>",
+                "answer":  "Looks or signs or ask an adult for permission",
+                "correct": "Great work! You should look for signs or ask an adult for permission before taking any picture of artwork.",
+                "incorrect": "Almost! Give it another try.",
+                "failed": "You're almost there. Remember, not all artists want their artwork to be photographed and shared, so be sure to ask for permission before any pictures are taken."
+            }
+        ],
+        [
+            {
+                "type": "mc",
+                "options": [
+                    "Variety",
+                    "Unity",
+                    "Space"
+                ],
+                "quiz": "<p>Name the element of art that is needed to create implied texture in artwork.</p> <img src='interactives/mc_07_01_07/intmedia/p7_img3.jpg' class='textimg img-border-purple' alt='a vector of hand drawn pencil shapes'/><p class='texttext'><strong>Image of:</strong> a vector of hand drawn pencil shapes</p>",
+                "answer": "Line",
+                "correct": "Way to go! Different types of lines are used to create implied texture in artwork.",
+                "incorrect": "Almost! Give it another try.",
+                "failed": "You're almost there. Remember the nature drawings and how they created different textures like sharp or bumpy."
+            }
+        ]
+    ]
+}

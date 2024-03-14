@@ -1,0 +1,71 @@
+{
+  "config": {
+    "src": "quizmo",
+    "progressBar": false,
+    "resultsPage": false,
+    "directionsTextversion": "Look at the four art examples. Select the artwork and put it in the correct bin.",
+    "css": [
+      "interactives/draganddrop_07_01_03/styles.css"
+    ],
+    "copyright": [
+      "iStock"
+    ]
+  },
+  "body": [
+    [
+      {
+        "type": "dragdropv2",
+        "multipleItems": true,
+        "title": "Print Me!",
+        "bins": [
+          {
+            "title": "Actual Texture (3-D)",
+            "id": "fevdrop_1",
+            "item": [
+              {
+                "image": "interactives/draganddrop_07_01_03/intmedia/p3_img1.jpg",
+                "alt": "a sculpture of stacked colored pencils"
+              },
+              {
+                "image": "interactives/draganddrop_07_01_03/intmedia/p3_img2.jpg",
+                "alt": "three Moroccan rugs hanging on the wall"
+              },
+              {
+                "image": "interactives/draganddrop_07_01_03/intmedia/p3_img3.jpg",
+                "alt": "miniature clay hamburger and fries"
+              }
+            ]
+          },
+          {
+            "title": "Implied Texture (2-D)",
+            "id": "fevdrop_2",
+            "item": [
+              {
+                "image": "interactives/draganddrop_07_01_03/intmedia/p3_img4.jpg",
+                "alt": "a colorful drawing of an alligator"
+              },
+              {
+                "image": "interactives/draganddrop_07_01_03/intmedia/p3_img5.jpg",
+                "alt": "a black and white drawing of two birds in a tree"
+              },
+              {
+                "image": "interactives/draganddrop_07_01_03/intmedia/p3_img6.jpg",
+                "alt": "a watercolor summer landscape painting"
+              }
+            ]
+          }
+        ],
+        "correct": "You win! You are an art expert. Select the ‘Restart’ button to play again.",
+        "incorrect": "Good effort! Let's try again.",
+        "$$hashKey": "object:113",
+        "failed": "Not quite right, but try again later! "
+      },
+      {
+        "type": "config",
+        "layout": "layout1",
+        "directions": "Look at the four art examples. Select the artwork and put it in the correct bin.",
+        "$$hashKey": "object:114"
+      }
+    ]
+  ]
+}
