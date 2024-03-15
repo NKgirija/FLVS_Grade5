@@ -1,0 +1,66 @@
+{
+  "Config": {
+    "InteractiveTitle": "MindMap",
+    "ColourScheme": "theme1",
+    "Instructions": "Select each bubble to review a few ways you can respect other's artwork.",
+    "InstructionsVO": "",
+    "Caption": "Respecting Artwork",
+    "CaptionVO": "",
+    "Tutorial": [],
+    "copyright": [
+      "Pupils And Teacher On School Field Trip To Museum by monkeybusinessimages © 2016 iStock",
+      "Public Domain",
+      "Please Do Not Touch by Jeremy Keith © 2010 Jeremy Keith, CC BY 2.0",
+      "little boy taking a picture with a vintage camera by valbar © 2015 iStock",
+      "Storm cloud in brain ©  Thinkstock"
+    ]
+  },
+  "Bubbles": [
+    {
+      "type": "text",
+      "title": "Take Your Time",
+      "titleVO": "",
+      "img": "intmedia/p5_img1.jpg",
+      "text": "While visiting an artist's work in a museum or art gallery, take your time to look at the artwork carefully. Consider how the elements of art work together in harmony to create the principle of design known as unity.",
+      "alt": "A Teacher explaining students in a Museum",
+      "textVO": ""
+    },
+    {
+      "type": "text",
+      "title": "Ask Questions",
+      "titleVO": "",
+      "img": "intmedia/p5_img2.jpg",
+      "text": "Asking questions about an artwork shows that you're interested and thinking about the artwork in a critical way.",
+      "alt": "A Raised hand",
+      "textVO": ""
+    },
+    {
+      "type": "text",
+      "title": "Look, Don't Touch",
+      "titleVO": "",
+      "img": "intmedia/p5_img3.jpg",
+      "text": "Sometimes, artists spend months and even years creating their artworks. If you reach out and touch an artwork, the oil from your hands can damage or ruin an artwork. If you're unsure whether or not you can touch an artwork, always ask an adult first.",
+      "alt": "A black board with white text “Please do not touch. Touching can harm the art",
+      "textVO": ""
+    },
+    {
+      "type": "text",
+      "title": "Ask Before Taking Photos",
+      "titleVO": "",
+      "img": "intmedia/p5_img4.jpg",
+      "text": "Not all artists want their artworks to be photographed and shared. Before taking your camera out and snapping a picture, be sure to look for signs or ask an adult for permission.",
+      "alt": "Boy clicking photos using a camera on a yellow background",
+      "textVO": ""
+    },
+    {
+      "type": "text",
+      "title": "Brainstorm Constructive Criticism",
+      "titleVO": "",
+      "img": "intmedia/p5_img5.jpg",
+      "text": "While looking at an artwork, begin to think of some constructive criticism you'd like to give back to the artist. Receiving constructive criticism is how artists continue to grow and master their skills.",
+      "alt": "An illustration showing brain storming",
+      "textVO": ""
+    }
+  ],
+  "TextVersion": "<h5>Respecting Artwork</h5><p><strong>Take Your Time:</strong> While visiting an artist's work in a museum or art gallery, take your time to look at the artwork carefully. Consider how the elements of art work together in harmony to create the principle of design known as unity.</p><p><strong>Image description:</strong> A Teacher explaining students in a Museum</p><p><strong>Ask Questions:</strong> Asking questions about an artwork shows that you're interested and thinking about the artwork in a critical way.</p><p><strong>Image description:</strong> A Raised hand</p><p><strong>Look, Don't Touch:</strong> Sometimes, artists spend months and even years creating their artworks. If you reach out and touch an artwork, the oil from your hands can damage or ruin an artwork. If you're unsure whether or not you can touch an artwork, always ask an adult first.</p><p><strong>Image description:</strong> A black board with white text “Please do not touch. Touching can harm the art</p><p><strong>Ask Before Taking Photos:</strong> Not all artists want their artworks to be photographed and shared. Before taking your camera out and snapping a picture, be sure to look for signs or ask an adult for permission.</p><p><strong>Image description:</strong> Boy clicking photos using a camera on a yellow background</p><p><strong>Brainstorm Constructive Criticism:</strong> While looking at an artwork, begin to think of some constructive criticism you'd like to give back to the artist. Receiving constructive criticism is how artists continue to grow and master their skills.</p><p><strong>Image description:</strong> An illustration showing brain storming</p>"
+}

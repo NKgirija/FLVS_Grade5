@@ -1,0 +1,190 @@
+{
+   "title": "Activity Data",
+   "type": "object",
+   "properties": {
+      "Config": {
+         "type": "object",
+         "properties": {
+            "InteractiveTitle": {
+               "type": "string"
+            },
+            "ColourScheme": {
+               "type": "string",
+               "enum": ["theme1", "theme2", "theme3"]
+            },
+            "Instructions": {
+               "type": "string"
+            },
+            "InstructionsVO": {
+               "type": "string"
+            },
+            "Caption": {
+               "type": "string"
+            },
+            "CaptionVO": {
+               "type": "string"
+            },
+            "Tutorial": {
+               "type": "array",
+               "description": "Choose from two types of tooltips: time-based and click-based. Time-based tooltips will disappear after the specified duration (in milliseconds). Click-based tooltips must be clicked on to disappear. To position the tooltips, give it using x and y coordinates (in pixels). The direction for the tooltip (up, down, left, or right) determines which side of your coordinates the tooltip will appear.",
+               "format": "tabs",
+               "options": {
+                  "collapsed": true
+               },
+               "items": {
+                  "title": "Step",
+                  "oneOf": [{
+                     "title": "Time-Based",
+                     "type": "object",
+                     "options": {
+                        "disable_collapse": true,
+                        "disable_properties": true,
+                        "disable_edit_json": true
+                     },
+                     "properties": {
+                        "text": {
+                           "title": "Tooltip Text Here",
+                           "type": "string"
+                        },
+                        "textVO": {
+                           "title": "Audio Source",
+                           "type": "string"
+                        },
+                        "direction": {
+                           "title": "Direction of the Tooltip",
+                           "type": "string",
+                           "enum": ["left", "right", "up", "down"]
+                        },
+                        "x": {
+                           "title": "X Coordinate for the Tooltip",
+                           "type": "integer"
+                        },
+                        "y": {
+                           "title": "Y Coordinate for the Tooltip",
+                           "type": "integer"
+                        },
+                        "width": {
+                           "title": "Width of the Tooltip",
+                           "type": "integer",
+                           "default": 250
+                        },
+                        "progress": {
+                           "type": "string",
+                           "enum": ["time"],
+                           "options": {
+                              "hidden": true
+                           }
+                        },
+                        "duration": {
+                           "title": "Duration of the Tooltip",
+                           "type": "integer",
+                           "default": 3000
+                        }
+                     }
+                  }, {
+                     "title": "Click-Based",
+                     "type": "object",
+                     "options": {
+                        "disable_collapse": true,
+                        "disable_properties": true,
+                        "disable_edit_json": true
+                     },
+                     "properties": {
+                        "text": {
+                           "type": "string"
+                        },
+                        "textVO": {
+                           "type": "string"
+                        },
+                        "direction": {
+                           "type": "string",
+                           "enum": ["left", "right", "up", "down"]
+                        },
+                        "x": {
+                           "type": "integer"
+                        },
+                        "y": {
+                           "type": "integer"
+                        },
+                        "width": {
+                           "type": "integer",
+                           "default": 250
+                        },
+                        "progress": {
+                           "type": "string",
+                           "enum": ["click"],
+                           "options": {
+                              "hidden": true
+                           }
+                        }
+                     }
+                  }]
+               }
+            }
+         }
+      },
+      "Bubbles": {
+         "type": "array",
+         "format": "tabs",
+         "maxItems": 6,
+         "items": {
+            "title": "Bubble",
+            "oneOf": [{
+               "title": "Text Node",
+               "type": "object",
+               "properties": {
+                  "type": {
+                     "type": "string",
+                     "enum": ["text"],
+                     "options": {
+                        "hidden": true
+                     }
+                  },
+                  "title": {
+                     "type": "string"
+                  },
+                  "titleVO": {
+                     "type": "string"
+                  },
+                  "img": {
+                     "type": "string"
+                  },
+                  "text": {
+                     "type": "string"
+                  },
+                  "textVO": {
+                     "type": "string"
+                  }
+               }
+            }, {
+               "title": "Image Node",
+               "type": "object",
+               "properties": {
+                  "type": {
+                     "type": "string",
+                     "enum": ["img"],
+                     "options": {
+                        "hidden": true
+                     }
+                  },
+                  "titleImg": {
+                     "type": "string"
+                  },
+                  "titleVO": {
+                     "type": "string"
+                  },
+                  "img": {
+                     "type": "string"
+                  },
+                  "text": {
+                     "type": "string"
+                  },
+                  "textVO": {
+                     "type": "string"
+                  }
+               }
+            }]
+         }
+      }
+   }
+}
