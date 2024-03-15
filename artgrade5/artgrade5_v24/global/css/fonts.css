@@ -1,0 +1,50 @@
+/* Required by FW4.  Do not delete. */
+@font-face {
+  font-family: 'museosans900';
+  src: url('../fonts/museosans900.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+/*@font-face {
+  font-family: 'introrustg-base2line';
+  src: url('../fonts/introrustg-base2line.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'tienne-bold';
+  src: url('../fonts/tienne-bold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'tipotype-brother-1816-book';
+  src: url('../fonts/tipotype-brother-1816-book.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'tipotype-brother-1816-light';
+  src: url('../fonts/tipotype-brother-1816-light.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}*/
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('https://cdn.flvs.net/cdn/elementary/fonts/fontawesome-webfont.eot?v=4.7.0');
+  src: url('https://cdn.flvs.net/cdn/elementary/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('https://cdn.flvs.net/cdn/elementary/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https://cdn.flvs.net/cdn/elementary/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https://cdn.flvs.net/cdn/elementary/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https://cdn.flvs.net/cdn/elementary/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoSlab';
+  src: url('../fonts/MuseoSans-900.eot');
+  src: url('../fonts/MuseoSans-900.woff2') format('woff2'),
+  url('../fonts/MuseoSans-900.woff') format('woff'),
+  url('../fonts/MuseoSans-900.ttf') format('truetype'),
+  url('../fonts/MuseoSans-900.svg#MuseoSans-900') format('svg'),
+  url('../fonts/MuseoSans-900.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
