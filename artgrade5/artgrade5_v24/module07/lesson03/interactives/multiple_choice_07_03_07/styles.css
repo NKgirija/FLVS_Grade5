@@ -1,0 +1,26 @@
+/*.btn img {
+	max-height:100px;
+}
+
+.btn .btn-primary .ng-pristine .ng-valid .ng-scope .hasMedia .ng-touched {
+	width: 47%;
+    height: 180px;
+    max-width: 180px;
+    margin-right: 10px;
+    padding: 15px;
+    border-color: #113434;
+}
+*/
+html .yellow.ng_il .btn-group>.btn {
+    padding: 10px;
+}
+.ng_il .btn-primary:focus:hover{
+    border-style: solid;
+}
+.ng_il .il_question .btn, .ng_il .il_question_wrapper .btn{
+    width: 47%;
+    height: 180px;
+    max-width: 180px;
+    margin-right: 10px;
+    padding: 15px;
+}
