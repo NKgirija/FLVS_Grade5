@@ -1,0 +1,58 @@
+{
+    "interactiveTitle": "Match the pictures with the correct word.",
+    "config": {
+        "src": "concentration",
+        "interactiveTitle": "Concentration",
+        "submitButton": "Solve Problem",
+        "restartButton": "Restart",
+        "bonus": false,
+        "version": 2,
+        "css": [
+            "interactives/concentration_07_04_02/css/styles.css"
+        ],
+        "copyright": [
+            "iStock"
+        ]
+    },
+    "settings": {
+        "directions": "Match the pictures with the correct word.",
+        "tryAgain": "Good try but not quite. Choose again.",
+        "correctBonus": "You won the Bonus Round!!!",
+        "incorrectBonus": "Sorry, that's incorrect. The correct answer is:",
+        "congrats": " You win! You are an art expert. Select the ‘Restart’ button to play again.   "
+    },
+    "levels": [
+        [
+            {
+                "question": "Hard",
+                "answer": "<img src=\"interactives/concentration_07_04_02/intmedia/p2_img1.jpg\" class=\"img-responsive\" alt=\"colorful gems\" />"
+            },
+            {
+                "question": "Smooth",
+                "answer": "<img src=\"interactives/concentration_07_04_02/intmedia/p2_img2.jpg\" class=\"img-responsive\" alt=\"red grapes\" />"
+
+            },
+            {
+                "question": "Soft",
+                "answer": "<img src=\"interactives/concentration_07_04_02/intmedia/p2_img3.jpg\" class=\"img-responsive\" alt=\"a pink sweater with a white heart\" />"
+            },
+            {
+                "question": "Rough",
+                "answer": "<img src=\"interactives/concentration_07_04_02/intmedia/p2_img4.jpg\" class=\"img-responsive\" alt=\"firewood logs\" />"
+            },
+            {
+                "question": "Woven",
+                "answer": "<img src=\"interactives/concentration_07_04_02/intmedia/p2_img5.jpg\" class=\"img-responsive\" alt=\"a colorful handmade woven tablecloth\" />"
+            },
+            {
+                "question": "Bumpy",
+                "answer": "<img src=\"interactives/concentration_07_04_02/intmedia/p2_img6.jpg\" class=\"img-responsive\" alt=\"a warty orange gourd\" />"
+            },
+            {
+                "bonus_image": "interactives/concentration_07_04_02/intmedia/p2_img7.jpg",
+                "bonus_answer": "",
+                "bonus_alt": "illustration of colorful hands holding up a trophy"
+            }
+        ]
+    ]
+}

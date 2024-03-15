@@ -1,0 +1,38 @@
+{
+	"config": {
+		"src": "timeline",
+		"css": [
+			"interactives/timeline_07_00_01/styles.css"
+		],
+		"directions": "Use the slider to learn more about fashion designers.",
+		"interactiveTitle": "Use the slider to learn more about fashion designers.",
+		"intMedia": "",
+		
+		"entries": [
+			{
+				"title": "Sketch",
+				"date": "",
+				"content": "<iframe src='https://cdnapisec.kaltura.com/p/2061901/sp/206190100/embedIframeJs/uiconf_id/33130941/partner_id/2061901?iframeembed=true&playerId=Kaltura&entry_id=1_z0atyqqu' allowfullscreen ></iframe><p class='videotv'><strong>Video of:</strong> Sketch <br> A person's hand can be seen creating a sketch design of a woman's dress using pencil and paper. Electronic music plays in the background with a consistent finger snapping sound.",
+				"alt": "",
+				"copyright": "",
+				"summaryLength": "1200"
+			},
+			{
+				"title": "3-D Model",
+				"date": "",
+				"content": "<iframe src='https://cdnapisec.kaltura.com/p/2061901/sp/206190100/embedIframeJs/uiconf_id/33130941/partner_id/2061901?iframeembed=true&playerId=Kaltura&entry_id=1_rl3j1j99' allowfullscreen ></iframe><p class='videotv'><strong>Video of:</strong> 3-D Model <br> A person can be seen working on a computer to create a three-dimensional model of an outfit. A consistent bass drum beats as a guitar strums an upbeat and relaxing melody in the background.",
+				"alt": "",
+				"copyright": "",
+				"summaryLength": "1200"
+			},
+			{
+				"title": "Bring to Life",
+				"date": "",
+				"content": "<iframe src='https://cdnapisec.kaltura.com/p/2061901/sp/206190100/embedIframeJs/uiconf_id/33130941/partner_id/2061901?iframeembed=true&playerId=Kaltura&entry_id=1_xf7fk9fb' allowfullscreen ></iframe><p class='videotv'><strong>Video of:</strong> Bring to Life<br> A person is seen draping fabric over a model to design an article of clothing. An electronic beat plays in the background as an electric guitar joins in to create hopeful background music.",
+				"alt": "",
+				"copyright": "",
+				"summaryLength": "1200"
+			}
+		]
+	}
+}
